@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Le Carnet — français courant</title>
+  <meta name="description" content="Mon carnet d'expressions de français courant : apprendre, utiliser, maîtriser.">
+  <meta name="theme-color" content="#16131f">
+
+  <!-- PWA -->
+  <link rel="manifest" href="./manifest.json">
+
+  <!-- iOS -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Le Carnet">
+  <link rel="apple-touch-icon" href="./icons/icon-180.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="./icons/icon-192.png">
+
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+
+  <header class="topbar">
+    <h1 class="brand"><span class="brand-guillemet">«</span> Le Carnet <span class="brand-guillemet">»</span></h1>
+    <div class="topbar-right">
+      <span id="sync-info" class="sync-info"></span>
+      <button id="btn-refresh" class="icon-btn" aria-label="Rafraîchir les expressions" title="Rafraîchir">
+        <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a9 9 0 1 1-2.64-6.36"/><polyline points="21 3 21 9 15 9"/></svg>
+      </button>
+    </div>
+  </header>
+
+  <main id="main">
+
+    <!-- ============ Vue Carnet ============ -->
+    <section id="vue-carnet" class="vue" aria-label="Carnet d'expressions">
+      <div class="recherche-wrap">
+        <input id="recherche" type="search" placeholder="Rechercher une expression…" autocomplete="off" aria-label="Recherche">
+      </div>
+
+      <div class="filtres" role="group" aria-label="Filtres par statut">
+        <button class="chip actif" data-filtre="tous">Tous</button>
+        <button class="chip chip-apprendre" data-filtre="apprendre">À apprendre</button>
+        <button class="chip chip-utilisee" data-filtre="utilisee">Utilisées</button>
+        <button class="chip chip-maitrisee" data-filtre="maitrisee">Maîtrisées</button>
+        <button class="chip chip-fav" data-filtre="favoris">★ Favoris</button>
+      </div>
+
+      <div class="filtres-secondaires">
+        <select id="filtre-registre" aria-label="Filtrer par registre">
+          <option value="">Tous les registres</option>
+        </select>
+        <span id="compteur-liste" class="compteur-liste"></span>
+      </div>
+
+      <div id="liste-cartes" class="liste-cartes"></div>
+      <p id="liste-vide" class="vide" hidden>Rien ici pour l'instant. Change de filtre ou rafraîchis 🙂</p>
+    </section>
+
+    <!-- ============ Vue Révision ============ -->
+    <section id="vue-revision" class="vue" hidden aria-label="Mode révision">
+      <div id="quiz-zone"></div>
+    </section>
+
+    <!-- ============ Vue Stats ============ -->
+    <section id="vue-stats" class="vue" hidden aria-label="Statistiques">
+      <div id="stats-zone"></div>
+    </section>
+
+    <!-- ============ Vue Réglages ============ -->
+    <section id="vue-reglages" class="vue" hidden aria-label="Réglages">
+      <h2 class="titre-section">Réglages</h2>
+
+      <label class="champ">
+        <span class="champ-label">URL du fichier <code>expressions.json</code></span>
+        <input id="reglage-url" type="url" placeholder="https://raw.githubusercontent.com/…/expressions.json" autocomplete="off">
+        <span class="champ-aide">Laisse vide pour lire le fichier livré avec le site (même repo). Mets l'URL <strong>raw</strong> GitHub pour lire une branche précise, par ex. la branche de la routine.</span>
+      </label>
+      <button id="btn-sauver-url" class="btn-principal">Enregistrer et recharger</button>
+
+      <div class="separateur"></div>
+
+      <h2 class="titre-section">Mes données</h2>
+      <p class="texte-doux">Statuts, favoris et streak sont stockés uniquement sur cet appareil.</p>
+      <div class="reglages-actions">
+        <button id="btn-export" class="btn-secondaire">Exporter ma progression</button>
+        <button id="btn-reset" class="btn-danger">Tout réinitialiser</button>
+      </div>
+
+      <div class="separateur"></div>
+      <p class="texte-doux apropos">Le Carnet — PWA statique, données publiques, progression locale.<br>Alimenté chaque jour par une Routine Claude Code. <span id="version"></span></p>
+    </section>
+
+  </main>
+
+  <!-- Toast -->
+  <div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+
+  <!-- Navigation basse -->
+  <nav class="tabbar" aria-label="Navigation principale">
+    <button class="tab actif" data-vue="carnet" aria-label="Carnet">
+      <svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg>
+      <span>Carnet</span>
+    </button>
+    <button class="tab" data-vue="revision" aria-label="Révision">
+      <svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg>
+      <span>Révision</span>
+    </button>
+    <button class="tab" data-vue="stats" aria-label="Statistiques">
+      <svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="20" x2="18" y2="10"/><line x1="12" y1="20" x2="12" y2="4"/><line x1="6" y1="20" x2="6" y2="14"/></svg>
+      <span>Stats</span>
+    </button>
+    <button class="tab" data-vue="reglages" aria-label="Réglages">
+      <svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 2.83-2.83l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/></svg>
+      <span>Réglages</span>
+    </button>
+  </nav>
+
+  <script src="./app.js"></script>
+</body>
+</html>

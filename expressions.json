@@ -1,0 +1,58 @@
+[
+  {
+    "expr": "ça passe crème",
+    "sens": "ça se passe très bien, sans aucun problème",
+    "exemple": "« T'as géré la présentation ? » — « Ouais, ça passe crème. »",
+    "registre": "entre potes",
+    "date": "2026-06-11"
+  },
+  {
+    "expr": "avoir la flemme",
+    "sens": "ne pas avoir envie de faire quelque chose, par paresse",
+    "exemple": "« Tu viens courir ? » — « Franchement j'ai la flemme, on dit demain ? »",
+    "registre": "courant",
+    "date": "2026-06-11"
+  },
+  {
+    "expr": "être chaud",
+    "sens": "être motivé, partant pour quelque chose",
+    "exemple": "« On se fait un resto ce soir ? » — « Vas-y, je suis chaud ! »",
+    "registre": "entre potes",
+    "date": "2026-06-10"
+  },
+  {
+    "expr": "ça me saoule",
+    "sens": "ça m'énerve, ça me fatigue moralement",
+    "exemple": "« Encore une réunion annulée à la dernière minute, ça me saoule. »",
+    "registre": "courant",
+    "date": "2026-06-10"
+  },
+  {
+    "expr": "c'est carré",
+    "sens": "c'est parfait, bien organisé, rien à redire",
+    "exemple": "« J'ai réservé la salle et envoyé les invits. » — « Carré ! »",
+    "registre": "entre potes",
+    "date": "2026-06-09"
+  },
+  {
+    "expr": "être à l'ouest",
+    "sens": "être distrait, fatigué, pas concentré du tout",
+    "exemple": "« Pardon, tu disais quoi ? Je suis complètement à l'ouest aujourd'hui. »",
+    "registre": "courant",
+    "date": "2026-06-09"
+  },
+  {
+    "expr": "se taper des barres",
+    "sens": "rire énormément, être mort de rire",
+    "exemple": "« La soirée d'hier, on s'est tapé des barres avec Karim. »",
+    "registre": "entre potes",
+    "date": "2026-06-08"
+  },
+  {
+    "expr": "poser un lapin",
+    "sens": "ne pas venir à un rendez-vous sans prévenir",
+    "exemple": "« Elle m'a posé un lapin, j'ai attendu une heure au café. »",
+    "registre": "courant",
+    "date": "2026-06-08"
+  }
+]
