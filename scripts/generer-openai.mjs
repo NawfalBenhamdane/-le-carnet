@@ -23,7 +23,7 @@ const RACINE = join(dirname(fileURLToPath(import.meta.url)), "..");
 const FICHIER = join(RACINE, "expressions.json");
 
 const CLE = process.env.OPENAI_API_KEY;
-const MODELE = process.env.OPENAI_MODEL || "gpt-4o";
+const MODELE = process.env.OPENAI_MODEL || "gpt-5.4";
 
 if (!CLE) {
   console.error("Erreur : la variable OPENAI_API_KEY n'est pas définie.");
@@ -87,26 +87,32 @@ Réponds UNIQUEMENT avec un objet JSON de cette forme exacte :
 Le champ "registre" vaut obligatoirement "entre potes", "courant" ou "boulot". Donne exactement ${n} expressions.`;
 }
 
-async function appelerOpenAI(prompt) {
+async function appelerOpenAI(prompt, { avecTemperature = true } = {}) {
+  const corps = {
+    model: MODELE,
+    messages: [
+      { role: "system", content: "Tu réponds toujours en JSON valide, en français." },
+      { role: "user", content: prompt },
+    ],
+    response_format: { type: "json_object" },
+  };
+  if (avecTemperature) corps.temperature = 0.9;
+
   const reponse = await fetch("https://api.openai.com/v1/chat/completions", {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
       Authorization: `Bearer ${CLE}`,
     },
-    body: JSON.stringify({
-      model: MODELE,
-      messages: [
-        { role: "system", content: "Tu réponds toujours en JSON valide, en français." },
-        { role: "user", content: prompt },
-      ],
-      response_format: { type: "json_object" },
-      temperature: 0.9,
-    }),
+    body: JSON.stringify(corps),
   });
 
   if (!reponse.ok) {
     const texte = await reponse.text();
+    // Certains modèles récents n'acceptent que la température par défaut : on réessaie sans.
+    if (reponse.status === 400 && avecTemperature && /temperature/i.test(texte)) {
+      return appelerOpenAI(prompt, { avecTemperature: false });
+    }
     throw new Error(`API OpenAI ${reponse.status} : ${texte}`);
   }
 

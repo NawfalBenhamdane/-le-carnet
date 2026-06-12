@@ -24,7 +24,7 @@ jobs:
       - name: Générer 4 expressions via OpenAI
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-          OPENAI_MODEL: gpt-4o
+          OPENAI_MODEL: gpt-5.4
         run: node scripts/generer-openai.mjs --n 4
 
       - name: Commit & push si changement
