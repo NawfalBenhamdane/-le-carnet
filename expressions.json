@@ -1,5 +1,33 @@
 [
   {
+    "expr": "ça régale",
+    "sens": "ça fait vraiment plaisir, c’est très appréciable ou très bon",
+    "exemple": "« Franchement, ton plat là, ça régale. »",
+    "registre": "entre potes",
+    "date": "2026-06-12"
+  },
+  {
+    "expr": "je suis rincé",
+    "sens": "je suis très fatigué, vidé d’énergie",
+    "exemple": "« Je vais pas traîner ce soir, je suis rincé de ma journée. »",
+    "registre": "courant",
+    "date": "2026-06-12"
+  },
+  {
+    "expr": "on se capte",
+    "sens": "on se voit, on se recontacte pour se retrouver",
+    "exemple": "« Je finis vers 19 h, on se capte après pour un verre ? »",
+    "registre": "entre potes",
+    "date": "2026-06-12"
+  },
+  {
+    "expr": "ça part sur",
+    "sens": "on s’oriente vers cette idée, ce choix ou ce plan",
+    "exemple": "« Au final, ça part sur un resto italien ce soir ou pas ? »",
+    "registre": "courant",
+    "date": "2026-06-12"
+  },
+  {
     "expr": "ça passe crème",
     "sens": "ça se passe très bien, sans aucun problème",
     "exemple": "« T'as géré la présentation ? » — « Ouais, ça passe crème. »",
