@@ -1,5 +1,33 @@
 [
   {
+    "expr": "ça fait sens",
+    "sens": "c’est logique, c’est cohérent, on comprend bien l’idée",
+    "exemple": "« Si on décale la réunion à 14 h pour avoir tous les retours avant, ça fait sens. »",
+    "registre": "boulot",
+    "date": "2026-06-13"
+  },
+  {
+    "expr": "je suis en PLS",
+    "sens": "je suis épuisé, dépassé ou abattu par une situation",
+    "exemple": "« Trois soirées de suite et ce matin à 8 h au bureau… je suis en PLS. »",
+    "registre": "entre potes",
+    "date": "2026-06-13"
+  },
+  {
+    "expr": "on se fait un dej ?",
+    "sens": "proposition simple pour aller déjeuner ensemble",
+    "exemple": "« T’es au bureau demain ? On se fait un dej vers midi ? »",
+    "registre": "courant",
+    "date": "2026-06-13"
+  },
+  {
+    "expr": "c’est validé",
+    "sens": "c’est approuvé, adopté, ou jugé très bien",
+    "exemple": "« Le resto thaï à côté de la salle ? Franchement, c’est validé. »",
+    "registre": "courant",
+    "date": "2026-06-13"
+  },
+  {
     "expr": "ça régale",
     "sens": "ça fait vraiment plaisir, c’est très appréciable ou très bon",
     "exemple": "« Franchement, ton plat là, ça régale. »",
