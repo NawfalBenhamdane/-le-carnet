@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Je suis en pilote automatique",
+    "sens": "Dire qu’on fonctionne sans trop réfléchir parce qu’on est fatigué ou débordé.",
+    "exemple": "« Ce matin, j’ai enchaîné les mails et la réunion, j’étais en pilote automatique. »",
+    "registre": "boulot",
+    "date": "2026-06-14"
+  },
+  {
+    "expr": "On improvise au talent",
+    "sens": "Faire les choses sans vrai plan, en comptant sur l’improvisation du moment.",
+    "exemple": "« On n’a rien réservé pour ce soir ? — T’inquiète, on improvise au talent. »",
+    "registre": "entre potes",
+    "date": "2026-06-14"
+  },
+  {
+    "expr": "Ça m’a mis bien",
+    "sens": "Dire que quelque chose a fait du bien, a remonté le moral ou a vraiment plu.",
+    "exemple": "« Franchement, le petit verre en terrasse après le taf, ça m’a mis bien. »",
+    "registre": "courant",
+    "date": "2026-06-14"
+  },
+  {
+    "expr": "Je décroche complètement",
+    "sens": "Dire qu’on n’arrive plus à suivre, à se concentrer ou à rester impliqué.",
+    "exemple": "« À partir de 16 h sur Teams, je décroche complètement, faut que je fasse une pause. »",
+    "registre": "boulot",
+    "date": "2026-06-14"
+  },
+  {
     "expr": "ça fait sens",
     "sens": "c’est logique, c’est cohérent, on comprend bien l’idée",
     "exemple": "« Si on décale la réunion à 14 h pour avoir tous les retours avant, ça fait sens. »",
