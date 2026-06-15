@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Je suis en vrac",
+    "sens": "Je suis fatigué, dispersé ou pas très en forme, physiquement ou mentalement.",
+    "exemple": "« Désolé, je réponds à moitié, je suis en vrac depuis ce matin. »",
+    "registre": "courant",
+    "date": "2026-06-15"
+  },
+  {
+    "expr": "On fait ça à l’arrache",
+    "sens": "On organise ou on fait quelque chose sans trop préparer, de manière spontanée.",
+    "exemple": "« Ce soir, pas de résa, on fait ça à l’arrache et on voit sur place. »",
+    "registre": "entre potes",
+    "date": "2026-06-15"
+  },
+  {
+    "expr": "Je suis sous l’eau",
+    "sens": "J’ai beaucoup trop de choses à faire, je suis débordé.",
+    "exemple": "« Je te fais le retour demain, là je suis sous l’eau avec trois dossiers en même temps. »",
+    "registre": "boulot",
+    "date": "2026-06-15"
+  },
+  {
+    "expr": "Ça me refait ma soirée",
+    "sens": "Ça me met de très bonne humeur, ça améliore clairement le moment.",
+    "exemple": "« Franchement, ton message, ça me refait ma soirée. »",
+    "registre": "entre potes",
+    "date": "2026-06-15"
+  },
+  {
     "expr": "Je suis en pilote automatique",
     "sens": "Dire qu’on fonctionne sans trop réfléchir parce qu’on est fatigué ou débordé.",
     "exemple": "« Ce matin, j’ai enchaîné les mails et la réunion, j’étais en pilote automatique. »",
