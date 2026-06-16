@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Je suis au bout de ma vie",
+    "sens": "Je suis épuisé, dépassé ou j’en peux plus sur le moment.",
+    "exemple": "« Trois visios, deux allers-retours et j’ai même pas déjeuné : je suis au bout de ma vie. »",
+    "registre": "courant",
+    "date": "2026-06-16"
+  },
+  {
+    "expr": "On se fait un verre vite fait",
+    "sens": "On propose de boire un verre de manière simple et spontanée, souvent après le travail.",
+    "exemple": "« On se fait un verre vite fait après le bureau ou t’es déjà pris ? »",
+    "registre": "courant",
+    "date": "2026-06-16"
+  },
+  {
+    "expr": "C’est clean",
+    "sens": "C’est bien fait, net, efficace ou sans problème.",
+    "exemple": "« Ta prez est clean, tu peux l’envoyer direct au client. »",
+    "registre": "boulot",
+    "date": "2026-06-16"
+  },
+  {
+    "expr": "Je suis pas bien là",
+    "sens": "Je vis un moment de gêne, de stress ou de malaise, souvent sur le ton de l’autodérision.",
+    "exemple": "« J’ai envoyé le message au mauvais groupe… je suis pas bien là. »",
+    "registre": "entre potes",
+    "date": "2026-06-16"
+  },
+  {
     "expr": "Je suis en vrac",
     "sens": "Je suis fatigué, dispersé ou pas très en forme, physiquement ou mentalement.",
     "exemple": "« Désolé, je réponds à moitié, je suis en vrac depuis ce matin. »",
