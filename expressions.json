@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Je suis carbo",
+    "sens": "Je suis très fatigué, vidé d’énergie.",
+    "exemple": "« Franchement, ce soir je rentre tôt, je suis carbo depuis 16 h. »",
+    "registre": "courant",
+    "date": "2026-06-17"
+  },
+  {
+    "expr": "On se fait un before tranquille",
+    "sens": "On se retrouve avant une soirée ou une sortie pour boire un verre ou discuter calmement.",
+    "exemple": "« Le resto est à 21 h, on se fait un before tranquille chez moi avant ? »",
+    "registre": "entre potes",
+    "date": "2026-06-17"
+  },
+  {
+    "expr": "J’ai la tête dans le guidon",
+    "sens": "Je suis très pris par le travail, sans trop de recul ni de disponibilité.",
+    "exemple": "« Cette semaine, j’ai la tête dans le guidon, je te réponds demain sur le dossier. »",
+    "registre": "boulot",
+    "date": "2026-06-17"
+  },
+  {
+    "expr": "C’est un sans-faute",
+    "sens": "C’est vraiment réussi, il n’y a rien à redire.",
+    "exemple": "« Le lieu, la musique, l’ambiance… franchement, hier soir c’était un sans-faute. »",
+    "registre": "courant",
+    "date": "2026-06-17"
+  },
+  {
     "expr": "Je suis au bout de ma vie",
     "sens": "Je suis épuisé, dépassé ou j’en peux plus sur le moment.",
     "exemple": "« Trois visios, deux allers-retours et j’ai même pas déjeuné : je suis au bout de ma vie. »",
