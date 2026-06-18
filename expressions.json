@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Je suis éclaté",
+    "sens": "Je suis très fatigué, vidé d’énergie.",
+    "exemple": "« Franchement, ce soir je rentre tôt, je suis éclaté de ma journée. »",
+    "registre": "courant",
+    "date": "2026-06-18"
+  },
+  {
+    "expr": "On fait un vrai point demain",
+    "sens": "On reporte la discussion pour en parler sérieusement plus tard, souvent au travail.",
+    "exemple": "« Là on boucle le call, et demain matin on fait un vrai point sur le dossier. »",
+    "registre": "boulot",
+    "date": "2026-06-18"
+  },
+  {
+    "expr": "C’est une dinguerie",
+    "sens": "C’est impressionnant, surprenant ou excellent.",
+    "exemple": "« T’as goûté le tiramisu pistache ? C’est une dinguerie. »",
+    "registre": "entre potes",
+    "date": "2026-06-18"
+  },
+  {
+    "expr": "Je suis en mode tranquille",
+    "sens": "Je veux rester posé, sans pression ni programme trop chargé.",
+    "exemple": "« Ce week-end, je suis en mode tranquille, pas de grosse soirée pour moi. »",
+    "registre": "courant",
+    "date": "2026-06-18"
+  },
+  {
     "expr": "Je suis carbo",
     "sens": "Je suis très fatigué, vidé d’énergie.",
     "exemple": "« Franchement, ce soir je rentre tôt, je suis carbo depuis 16 h. »",
