@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Je suis en tunnel",
+    "sens": "Je suis dans une période très chargée où je me concentre sur une seule chose sans trop lever la tête.",
+    "exemple": "« Désolé si je réponds tard, là je suis en tunnel jusqu’à vendredi avec le dossier client. »",
+    "registre": "boulot",
+    "date": "2026-06-19"
+  },
+  {
+    "expr": "Ça me chauffe moyen",
+    "sens": "Je ne suis pas très motivé ou pas totalement convaincu par une idée ou un plan.",
+    "exemple": "« Le resto à l’autre bout de Paris un mardi soir, ça me chauffe moyen franchement. »",
+    "registre": "courant",
+    "date": "2026-06-19"
+  },
+  {
+    "expr": "On se fait un petit truc posé",
+    "sens": "On prévoit un moment simple et tranquille, sans grosse organisation ni ambiance agitée.",
+    "exemple": "« Vendredi j’ai pas envie d’un gros bail, on se fait un petit truc posé chez moi ? »",
+    "registre": "entre potes",
+    "date": "2026-06-19"
+  },
+  {
+    "expr": "J’ai plus de bande passante",
+    "sens": "Je n’ai plus d’énergie mentale ou plus de disponibilité pour gérer quelque chose en plus.",
+    "exemple": "« Ajoute-moi pas une réunion là tout de suite, j’ai plus de bande passante cet aprèm. »",
+    "registre": "boulot",
+    "date": "2026-06-19"
+  },
+  {
     "expr": "Je suis éclaté",
     "sens": "Je suis très fatigué, vidé d’énergie.",
     "exemple": "« Franchement, ce soir je rentre tôt, je suis éclaté de ma journée. »",
