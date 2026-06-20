@@ -1,5 +1,33 @@
 [
   {
+    "expr": "C’est pas mon prime",
+    "sens": "Ça veut dire qu’on n’est pas dans sa meilleure forme, pas au top physiquement ou mentalement.",
+    "exemple": "« Désolé, ce matin je suis lent en réunion, c’est pas mon prime. »",
+    "registre": "courant",
+    "date": "2026-06-20"
+  },
+  {
+    "expr": "On fait ça en sous-marin",
+    "sens": "Faire quelque chose discrètement, sans l’annoncer à tout le monde.",
+    "exemple": "« Pour le cadeau de Léa, on fait ça en sous-marin et on lui dit vendredi. »",
+    "registre": "entre potes",
+    "date": "2026-06-20"
+  },
+  {
+    "expr": "Ça me matrixe",
+    "sens": "Ça me perturbe, ça me travaille la tête ou ça me met un doute.",
+    "exemple": "« Son message hyper sec, je te jure, ça me matrixe depuis ce matin. »",
+    "registre": "courant",
+    "date": "2026-06-20"
+  },
+  {
+    "expr": "On est short",
+    "sens": "On manque de temps, de marge ou de ressources pour faire quelque chose.",
+    "exemple": "« Pour boucler la prez aujourd’hui, on est short, faut aller à l’essentiel. »",
+    "registre": "boulot",
+    "date": "2026-06-20"
+  },
+  {
     "expr": "Je suis en tunnel",
     "sens": "Je suis dans une période très chargée où je me concentre sur une seule chose sans trop lever la tête.",
     "exemple": "« Désolé si je réponds tard, là je suis en tunnel jusqu’à vendredi avec le dossier client. »",
