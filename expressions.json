@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Ça me termine",
+    "sens": "Ça me fait énormément rire ou ça m’achève tellement c’est absurde ou fort.",
+    "exemple": "« T’as vu son message vocal de trois minutes pour dire juste “ok” ? — Ah ouais, ça me termine. »",
+    "registre": "entre potes",
+    "date": "2026-06-21"
+  },
+  {
+    "expr": "On se fait un mini apéro ?",
+    "sens": "Proposer un moment simple et informel pour boire un verre et grignoter, sans en faire tout un programme.",
+    "exemple": "« On sort du taf à 19 h, on se fait un mini apéro en terrasse ? »",
+    "registre": "courant",
+    "date": "2026-06-21"
+  },
+  {
+    "expr": "Je suis un peu KO socialement",
+    "sens": "Dire qu’on n’a plus trop d’énergie pour parler, voir du monde ou être en interaction.",
+    "exemple": "« Ce soir je passe mon tour, j’ai enchaîné les réunions, je suis un peu KO socialement. »",
+    "registre": "courant",
+    "date": "2026-06-21"
+  },
+  {
+    "expr": "Ça va être sport",
+    "sens": "Ça risque d’être intense, compliqué ou chargé en efforts.",
+    "exemple": "« Caler le client, finir le deck et partir à 18 h ? Ça va être sport. »",
+    "registre": "boulot",
+    "date": "2026-06-21"
+  },
+  {
     "expr": "C’est pas mon prime",
     "sens": "Ça veut dire qu’on n’est pas dans sa meilleure forme, pas au top physiquement ou mentalement.",
     "exemple": "« Désolé, ce matin je suis lent en réunion, c’est pas mon prime. »",
