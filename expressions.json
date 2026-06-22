@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Ça me fume",
+    "sens": "Ça me fait beaucoup rire ou ça me sidère tellement que j’en reviens pas.",
+    "exemple": "« Il a ramené un tupperware au resto pour finir son dessert ? — Franchement, ça me fume. »",
+    "registre": "entre potes",
+    "date": "2026-06-22"
+  },
+  {
+    "expr": "On se fait un after ?",
+    "sens": "On prolonge la soirée ou la journée de travail en allant boire un verre ou passer un moment ensemble après.",
+    "exemple": "« La réunion finit tôt, on se fait un after vers 19 h avec l’équipe ? »",
+    "registre": "courant",
+    "date": "2026-06-22"
+  },
+  {
+    "expr": "Je suis en PLS mentale",
+    "sens": "Je suis mentalement saturé, dépassé ou incapable de réfléchir correctement sur le moment.",
+    "exemple": "« Entre les mails, le dossier et l’appel client, je suis en PLS mentale là. »",
+    "registre": "boulot",
+    "date": "2026-06-22"
+  },
+  {
+    "expr": "C’est trop mon délire",
+    "sens": "Ça correspond complètement à mes goûts, à mon style ou à ce que j’aime.",
+    "exemple": "« Le bar avec vinyles et lumière tamisée ? Ah ouais, c’est trop mon délire. »",
+    "registre": "entre potes",
+    "date": "2026-06-22"
+  },
+  {
     "expr": "Ça me termine",
     "sens": "Ça me fait énormément rire ou ça m’achève tellement c’est absurde ou fort.",
     "exemple": "« T’as vu son message vocal de trois minutes pour dire juste “ok” ? — Ah ouais, ça me termine. »",
