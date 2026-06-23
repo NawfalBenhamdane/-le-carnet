@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Je suis pas câblé pour ça aujourd’hui",
+    "sens": "Je n’ai pas l’énergie ou la disposition mentale pour gérer ça maintenant.",
+    "exemple": "« Tu viens au resto puis en bar après ? — Franchement, je suis pas câblé pour ça aujourd’hui, je rentre tôt. »",
+    "registre": "courant",
+    "date": "2026-06-23"
+  },
+  {
+    "expr": "On se fait un dernier pour la route ?",
+    "sens": "Proposer un dernier verre ou une dernière consommation avant de partir.",
+    "exemple": "« Bon, on bouge ? — Attends, on se fait un dernier pour la route ? »",
+    "registre": "entre potes",
+    "date": "2026-06-23"
+  },
+  {
+    "expr": "Ça m’a lessivé",
+    "sens": "Ça m’a beaucoup fatigué, physiquement ou mentalement.",
+    "exemple": "« La journée avec les rendez-vous qui s’enchaînent, ça m’a lessivé. »",
+    "registre": "courant",
+    "date": "2026-06-23"
+  },
+  {
+    "expr": "Je te fais un retour d’ici ce soir",
+    "sens": "Je te répondrai après avoir vérifié ou réfléchi, avant la fin de la journée.",
+    "exemple": "« J’ai bien vu ton doc, je te fais un retour d’ici ce soir avec mes modifs. »",
+    "registre": "boulot",
+    "date": "2026-06-23"
+  },
+  {
     "expr": "Ça me fume",
     "sens": "Ça me fait beaucoup rire ou ça me sidère tellement que j’en reviens pas.",
     "exemple": "« Il a ramené un tupperware au resto pour finir son dessert ? — Franchement, ça me fume. »",
