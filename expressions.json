@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Ça envoie",
+    "sens": "Se dit de quelque chose de vraiment réussi, impressionnant ou très efficace.",
+    "exemple": "« T’as vu la terrasse de ce bar ? — Ouais, franchement, ça envoie. »",
+    "registre": "courant",
+    "date": "2026-06-24"
+  },
+  {
+    "expr": "Je suis pas dispo dans ma tête",
+    "sens": "Je n’ai pas l’énergie mentale ou l’attention nécessaire sur le moment.",
+    "exemple": "« Tu peux relire ça maintenant ? — Là, non, je suis pas dispo dans ma tête, je te fais ça après le dej. »",
+    "registre": "boulot",
+    "date": "2026-06-24"
+  },
+  {
+    "expr": "On se fait ça soft",
+    "sens": "On fait quelque chose de simple, calme, sans partir sur un gros programme.",
+    "exemple": "« Ce soir, grosse soirée ou pas ? — Non, on se fait ça soft, j’ai une grosse journée demain. »",
+    "registre": "entre potes",
+    "date": "2026-06-24"
+  },
+  {
+    "expr": "Ça fait le taf",
+    "sens": "Ce n’est pas exceptionnel, mais c’est suffisant et ça remplit bien sa fonction.",
+    "exemple": "« Le resto est pas fou, mais pour un midi rapide, ça fait le taf. »",
+    "registre": "courant",
+    "date": "2026-06-24"
+  },
+  {
     "expr": "Je suis pas câblé pour ça aujourd’hui",
     "sens": "Je n’ai pas l’énergie ou la disposition mentale pour gérer ça maintenant.",
     "exemple": "« Tu viens au resto puis en bar après ? — Franchement, je suis pas câblé pour ça aujourd’hui, je rentre tôt. »",
