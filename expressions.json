@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Ça pique un peu",
+    "sens": "Se dit d’une situation un peu dure, d’un prix élevé, d’une fatigue ou d’une remarque qui passe difficilement.",
+    "exemple": "« 8h30 de réunion demain ? Ah ouais, ça pique un peu quand même. »",
+    "registre": "courant",
+    "date": "2026-06-25"
+  },
+  {
+    "expr": "Je suis en dette de sommeil",
+    "sens": "Dire qu’on manque clairement de sommeil et qu’on le ressent dans la journée.",
+    "exemple": "« Si je baille en visio, juge-moi pas, je suis en dette de sommeil depuis trois jours. »",
+    "registre": "boulot",
+    "date": "2026-06-25"
+  },
+  {
+    "expr": "On se fait un truc léger",
+    "sens": "Proposer une sortie simple, sans gros programme ni grosse organisation.",
+    "exemple": "« Ce soir j’ai pas l’énergie pour un gros plan, on se fait un truc léger vers le canal ? »",
+    "registre": "entre potes",
+    "date": "2026-06-25"
+  },
+  {
+    "expr": "C’est un peu lunaire",
+    "sens": "Se dit de quelque chose de bizarre, absurde ou difficile à comprendre.",
+    "exemple": "« Le mail du client à 23h47 pour changer tout le brief, c’est un peu lunaire. »",
+    "registre": "courant",
+    "date": "2026-06-25"
+  },
+  {
     "expr": "Ça envoie",
     "sens": "Se dit de quelque chose de vraiment réussi, impressionnant ou très efficace.",
     "exemple": "« T’as vu la terrasse de ce bar ? — Ouais, franchement, ça envoie. »",
