@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Je suis en batterie faible",
+    "sens": "Je n’ai plus beaucoup d’énergie, physiquement ou mentalement.",
+    "exemple": "« Ce soir je passe juste une heure, je suis en batterie faible depuis ce matin. »",
+    "registre": "courant",
+    "date": "2026-06-26"
+  },
+  {
+    "expr": "On se fait un vrai dîner, pas un bricolage",
+    "sens": "On mange quelque chose de consistant et préparé, pas juste un snack ou un repas improvisé.",
+    "exemple": "« Franchement, après le taf, on se fait un vrai dîner, pas un bricolage, j’ai trop faim. »",
+    "registre": "entre potes",
+    "date": "2026-06-26"
+  },
+  {
+    "expr": "Ça me met dans un bon mood",
+    "sens": "Ça me met de bonne humeur, dans de bonnes dispositions.",
+    "exemple": "« La terrasse au soleil en sortant du bureau, ça me met dans un bon mood direct. »",
+    "registre": "courant",
+    "date": "2026-06-26"
+  },
+  {
+    "expr": "Je te ping quand c’est calé",
+    "sens": "Je t’envoie un message dès que c’est confirmé ou organisé.",
+    "exemple": "« J’attends la réponse du client, je te ping quand c’est calé. »",
+    "registre": "boulot",
+    "date": "2026-06-26"
+  },
+  {
     "expr": "Ça pique un peu",
     "sens": "Se dit d’une situation un peu dure, d’un prix élevé, d’une fatigue ou d’une remarque qui passe difficilement.",
     "exemple": "« 8h30 de réunion demain ? Ah ouais, ça pique un peu quand même. »",
