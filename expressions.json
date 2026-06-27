@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Ça me fait sortir de ma grotte",
+    "sens": "Ça me motive à sortir, voir du monde ou arrêter de rester chez moi.",
+    "exemple": "« Franchement ton plan terrasse, ça me fait sortir de ma grotte, je viens. »",
+    "registre": "entre potes",
+    "date": "2026-06-27"
+  },
+  {
+    "expr": "Je suis en mode économie d’énergie",
+    "sens": "Je n’ai pas beaucoup d’énergie, donc je fais le minimum ou je préfère quelque chose de calme.",
+    "exemple": "« Ce soir je suis en mode économie d’énergie, je vote resto pas trop loin. »",
+    "registre": "courant",
+    "date": "2026-06-27"
+  },
+  {
+    "expr": "Ça me débloque la journée",
+    "sens": "Ça améliore nettement mon humeur ou relance ma motivation.",
+    "exemple": "« Un café au soleil là, ça me débloque la journée. »",
+    "registre": "courant",
+    "date": "2026-06-27"
+  },
+  {
+    "expr": "On se garde ça sous le coude",
+    "sens": "On garde cette idée ou cette option pour plus tard, au cas où.",
+    "exemple": "« Si le premier lieu est blindé, on se garde le bar d’à côté sous le coude. »",
+    "registre": "boulot",
+    "date": "2026-06-27"
+  },
+  {
     "expr": "Je suis en batterie faible",
     "sens": "Je n’ai plus beaucoup d’énergie, physiquement ou mentalement.",
     "exemple": "« Ce soir je passe juste une heure, je suis en batterie faible depuis ce matin. »",
