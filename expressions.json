@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Ça me met bien",
+    "sens": "Ça me fait plaisir, ça me met dans un bon état d’esprit ou ça me convient très bien.",
+    "exemple": "« Un verre en terrasse au soleil après le taf ? — Franchement, ça me met bien. »",
+    "registre": "courant",
+    "date": "2026-06-28"
+  },
+  {
+    "expr": "Je suis en roue libre",
+    "sens": "Je fonctionne sans trop réfléchir, souvent parce que je suis fatigué ou en fin de journée.",
+    "exemple": "« Si je dis n’importe quoi en réunion, cherche pas, je suis en roue libre depuis 16h. »",
+    "registre": "boulot",
+    "date": "2026-06-28"
+  },
+  {
+    "expr": "On se fait un truc à l’impro",
+    "sens": "On décide au dernier moment, sans plan précis.",
+    "exemple": "« Ce soir j’ai rien calé, on se fait un truc à l’impro si t’es dans le coin. »",
+    "registre": "entre potes",
+    "date": "2026-06-28"
+  },
+  {
+    "expr": "Je suis pas serein",
+    "sens": "Je ne suis pas rassuré, je sens que ça peut mal se passer ou que je ne le sens pas trop.",
+    "exemple": "« Le train a déjà quarante minutes de retard et la correspondance est dans vingt minutes, je suis pas serein. »",
+    "registre": "courant",
+    "date": "2026-06-28"
+  },
+  {
     "expr": "Ça me fait sortir de ma grotte",
     "sens": "Ça me motive à sortir, voir du monde ou arrêter de rester chez moi.",
     "exemple": "« Franchement ton plan terrasse, ça me fait sortir de ma grotte, je viens. »",
