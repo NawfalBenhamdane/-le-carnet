@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Ça me chauffe de ouf",
+    "sens": "Ça me donne très envie, je suis vraiment partant.",
+    "exemple": "« Un resto coréen ce soir ? — Franchement, ça me chauffe de ouf. »",
+    "registre": "entre potes",
+    "date": "2026-06-29"
+  },
+  {
+    "expr": "Je suis en apnée",
+    "sens": "Je suis débordé, je n’ai pas une minute.",
+    "exemple": "« Je te réponds après le déjeuner, là je suis en apnée depuis ce matin. »",
+    "registre": "boulot",
+    "date": "2026-06-29"
+  },
+  {
+    "expr": "Ça cale bien",
+    "sens": "En parlant de nourriture, c’est simple mais rassasiant et satisfaisant.",
+    "exemple": "« On prend des nouilles avant le concert ? — Ouais, c’est pas fancy mais ça cale bien. »",
+    "registre": "courant",
+    "date": "2026-06-29"
+  },
+  {
+    "expr": "Je suis pas dedans",
+    "sens": "Je n’arrive pas à me concentrer ou à me mettre dans l’ambiance.",
+    "exemple": "« Tu viens bosser avec nous en salle ? — Là non, je suis pas dedans ce matin. »",
+    "registre": "courant",
+    "date": "2026-06-29"
+  },
+  {
     "expr": "Ça me met bien",
     "sens": "Ça me fait plaisir, ça me met dans un bon état d’esprit ou ça me convient très bien.",
     "exemple": "« Un verre en terrasse au soleil après le taf ? — Franchement, ça me met bien. »",
