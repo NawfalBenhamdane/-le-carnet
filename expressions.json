@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Je suis en jus",
+    "sens": "Je suis débordé, sous pression ou à court d’énergie à cause de ce que j’ai à gérer.",
+    "exemple": "« Désolé, je réponds tard, là je suis en jus depuis ce matin avec les dossiers. »",
+    "registre": "boulot",
+    "date": "2026-06-30"
+  },
+  {
+    "expr": "Ça se tente",
+    "sens": "L’idée n’est pas parfaite mais elle vaut le coup d’être essayée.",
+    "exemple": "« Le resto a l’air un peu blindé, mais la terrasse est cool, ça se tente. »",
+    "registre": "courant",
+    "date": "2026-06-30"
+  },
+  {
+    "expr": "Je suis en social max",
+    "sens": "Je n’ai plus beaucoup d’énergie pour voir du monde ou discuter longtemps.",
+    "exemple": "« Je passe une heure et après je rentre, je suis en social max aujourd’hui. »",
+    "registre": "entre potes",
+    "date": "2026-06-30"
+  },
+  {
+    "expr": "Ça coche toutes les cases",
+    "sens": "Quelque chose répond à tous les critères importants, de manière satisfaisante.",
+    "exemple": "« Franchement ce poste, remote deux jours, bonne équipe, bon salaire : ça coche toutes les cases. »",
+    "registre": "boulot",
+    "date": "2026-06-30"
+  },
+  {
     "expr": "Ça me chauffe de ouf",
     "sens": "Ça me donne très envie, je suis vraiment partant.",
     "exemple": "« Un resto coréen ce soir ? — Franchement, ça me chauffe de ouf. »",
