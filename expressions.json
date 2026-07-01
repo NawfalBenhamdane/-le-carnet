@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Je suis en débit réduit",
+    "sens": "Je fonctionne au ralenti, j’ai moins d’énergie ou de concentration que d’habitude.",
+    "exemple": "« Ce matin je prends un café avant la réunion, je suis en débit réduit complet. »",
+    "registre": "boulot",
+    "date": "2026-07-01"
+  },
+  {
+    "expr": "Ça me chauffe bien",
+    "sens": "Ça me donne vraiment envie, sans excès, de participer ou d’y aller.",
+    "exemple": "« Un resto en terrasse après le taf ? Franchement, ça me chauffe bien. »",
+    "registre": "courant",
+    "date": "2026-07-01"
+  },
+  {
+    "expr": "On se fait un format tranquille",
+    "sens": "On prévoit quelque chose de simple, sans pression ni grosse organisation.",
+    "exemple": "« Vendredi j’ai pas l’énergie pour un gros truc, on se fait un format tranquille ? »",
+    "registre": "entre potes",
+    "date": "2026-07-01"
+  },
+  {
+    "expr": "Je suis en reprise",
+    "sens": "Je reviens doucement dans le rythme après de la fatigue, une soirée, des congés ou une période chargée.",
+    "exemple": "« Ne me cale pas trois sujets ce matin, je suis encore en reprise après le déplacement. »",
+    "registre": "boulot",
+    "date": "2026-07-01"
+  },
+  {
     "expr": "Je suis en jus",
     "sens": "Je suis débordé, sous pression ou à court d’énergie à cause de ce que j’ai à gérer.",
     "exemple": "« Désolé, je réponds tard, là je suis en jus depuis ce matin avec les dossiers. »",
