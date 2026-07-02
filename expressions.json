@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Je suis en latence",
+    "sens": "Je suis ralenti, pas très réactif, souvent à cause de la fatigue ou d’une surcharge mentale.",
+    "exemple": "« Désolé si je réponds à côté, je suis en latence aujourd’hui. »",
+    "registre": "courant",
+    "date": "2026-07-02"
+  },
+  {
+    "expr": "On se fait un verre en descente",
+    "sens": "On va boire un verre en fin de journée, en redescendant de la journée de boulot ou du rythme intense.",
+    "exemple": "« J’ai fini mes calls, on se fait un verre en descente vers 19h ? »",
+    "registre": "entre potes",
+    "date": "2026-07-02"
+  },
+  {
+    "expr": "C’est un peu la jungle",
+    "sens": "La situation est désorganisée, floue ou compliquée à suivre.",
+    "exemple": "« Entre les versions du doc, les messages Teams et les modifs de dernière minute, c’est un peu la jungle. »",
+    "registre": "boulot",
+    "date": "2026-07-02"
+  },
+  {
+    "expr": "Je suis en version lente",
+    "sens": "Je fonctionne au ralenti, sans grande énergie ni vitesse.",
+    "exemple": "« Ce matin, compte pas sur moi pour réfléchir vite, je suis en version lente. »",
+    "registre": "courant",
+    "date": "2026-07-02"
+  },
+  {
     "expr": "Je suis en débit réduit",
     "sens": "Je fonctionne au ralenti, j’ai moins d’énergie ou de concentration que d’habitude.",
     "exemple": "« Ce matin je prends un café avant la réunion, je suis en débit réduit complet. »",
