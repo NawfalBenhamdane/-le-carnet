@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Je suis en mode avion",
+    "sens": "je coupe un peu du monde, je réponds peu et je veux être tranquille",
+    "exemple": "« Ce soir je suis en mode avion, je rentre tôt et je laisse mon tel de côté. »",
+    "registre": "courant",
+    "date": "2026-07-03"
+  },
+  {
+    "expr": "On fait ça au calme",
+    "sens": "on fait quelque chose simplement, sans pression ni gros programme",
+    "exemple": "« Pas besoin de réserver partout, on fait ça au calme et on voit sur place. »",
+    "registre": "entre potes",
+    "date": "2026-07-03"
+  },
+  {
+    "expr": "C’est flou dans ma tête",
+    "sens": "je manque de clarté, de concentration ou d’énergie mentale",
+    "exemple": "« Là, me lance pas sur ce dossier tout de suite, c’est flou dans ma tête ce matin. »",
+    "registre": "boulot",
+    "date": "2026-07-03"
+  },
+  {
+    "expr": "Ça fait plaisir en vrai",
+    "sens": "ça fait sincèrement plaisir, au-delà de la formule automatique",
+    "exemple": "« Franchement, vous être tous venus, ça fait plaisir en vrai. »",
+    "registre": "courant",
+    "date": "2026-07-03"
+  },
+  {
     "expr": "Je suis en latence",
     "sens": "Je suis ralenti, pas très réactif, souvent à cause de la fatigue ou d’une surcharge mentale.",
     "exemple": "« Désolé si je réponds à côté, je suis en latence aujourd’hui. »",
