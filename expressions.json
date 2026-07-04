@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Ça m’ambiance",
+    "sens": "Ça me met dans une bonne énergie, ça me donne envie",
+    "exemple": "« Franchement, ton idée de terrasse au bord de l’eau, ça m’ambiance de fou pour ce soir. »",
+    "registre": "entre potes",
+    "date": "2026-07-04"
+  },
+  {
+    "expr": "Je suis pas en face",
+    "sens": "Je ne suis pas vraiment concentré ou mentalement disponible",
+    "exemple": "« Si tu veux, on reprend ce dossier après le dej, là je suis pas en face. »",
+    "registre": "boulot",
+    "date": "2026-07-04"
+  },
+  {
+    "expr": "On se cale un vrai créneau",
+    "sens": "On fixe un moment précis pour en parler ou le faire sérieusement",
+    "exemple": "« Là on se croise vite fait, mais on se cale un vrai créneau demain matin ? »",
+    "registre": "boulot",
+    "date": "2026-07-04"
+  },
+  {
+    "expr": "Ça me fait ma soirée",
+    "sens": "Ça suffit à rendre le moment vraiment agréable ou réussi",
+    "exemple": "« Un bon plat de pâtes, un verre de rouge et personne qui me parle boulot : ça me fait ma soirée. »",
+    "registre": "courant",
+    "date": "2026-07-04"
+  },
+  {
     "expr": "Je suis en mode avion",
     "sens": "je coupe un peu du monde, je réponds peu et je veux être tranquille",
     "exemple": "« Ce soir je suis en mode avion, je rentre tôt et je laisse mon tel de côté. »",
