@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Ça me chauffe pas plus que ça",
+    "sens": "ça ne motive pas vraiment, sans dire non de manière brutale",
+    "exemple": "« Le bar est blindé et la musique est trop forte, ça me chauffe pas plus que ça ce soir. »",
+    "registre": "entre potes",
+    "date": "2026-07-05"
+  },
+  {
+    "expr": "Je suis en full rush",
+    "sens": "je suis dans une période très chargée, avec beaucoup de choses à gérer",
+    "exemple": "« Je te réponds après le dej, là je suis en full rush depuis ce matin. »",
+    "registre": "boulot",
+    "date": "2026-07-05"
+  },
+  {
+    "expr": "C’est hyper ok",
+    "sens": "c’est totalement bon pour moi, j’accepte ou ça me convient très bien",
+    "exemple": "« On décale à 20 h parce que j’ai un train ? — Oui, c’est hyper ok. »",
+    "registre": "courant",
+    "date": "2026-07-05"
+  },
+  {
+    "expr": "Je suis pas trop dans l’idée",
+    "sens": "je ne suis pas très motivé ou pas dans le bon état d’esprit pour ça",
+    "exemple": "« Un resto très lourd ce midi ? Franchement je suis pas trop dans l’idée, j’ai envie d’un truc simple. »",
+    "registre": "courant",
+    "date": "2026-07-05"
+  },
+  {
     "expr": "Ça m’ambiance",
     "sens": "Ça me met dans une bonne énergie, ça me donne envie",
     "exemple": "« Franchement, ton idée de terrasse au bord de l’eau, ça m’ambiance de fou pour ce soir. »",
