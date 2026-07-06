@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Ça me parle",
+    "sens": "Ça me semble pertinent, ça me correspond ou l’idée me plaît.",
+    "exemple": "« Ton plan resto + petit bar à vin après, franchement ça me parle. »",
+    "registre": "courant",
+    "date": "2026-07-06"
+  },
+  {
+    "expr": "Je suis à deux doigts de",
+    "sens": "Je suis sur le point de faire quelque chose, souvent dit pour exagérer légèrement ou avec humour.",
+    "exemple": "« Je suis à deux doigts de rentrer me poser au lieu de venir, j’ai eu une journée trop longue. »",
+    "registre": "entre potes",
+    "date": "2026-07-06"
+  },
+  {
+    "expr": "On se fait un point rapide",
+    "sens": "On échange brièvement pour se mettre à jour sur un sujet.",
+    "exemple": "« Avant le call client, on se fait un point rapide à 14 h ? »",
+    "registre": "boulot",
+    "date": "2026-07-06"
+  },
+  {
+    "expr": "Je suis pas méga chaud",
+    "sens": "Je ne suis pas très motivé ou pas très emballé par une idée.",
+    "exemple": "« Le club blindé ce soir, je suis pas méga chaud, je préférerais un truc plus simple. »",
+    "registre": "courant",
+    "date": "2026-07-06"
+  },
+  {
     "expr": "Ça me chauffe pas plus que ça",
     "sens": "ça ne motive pas vraiment, sans dire non de manière brutale",
     "exemple": "« Le bar est blindé et la musique est trop forte, ça me chauffe pas plus que ça ce soir. »",
