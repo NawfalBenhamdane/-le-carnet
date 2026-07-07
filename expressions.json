@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Je le sens moyen",
+    "sens": "Je ne suis pas très confiant ou pas très motivé pour ce qui est proposé.",
+    "exemple": "« Le resto sans résa un vendredi à 21h ? Je le sens moyen, on va galérer. »",
+    "registre": "courant",
+    "date": "2026-07-07"
+  },
+  {
+    "expr": "Ça part en sucette",
+    "sens": "La situation devient désordonnée, compliquée ou incontrôlable.",
+    "exemple": "« Depuis ce matin, entre les mails, les urgences et le bug, ça part en sucette. »",
+    "registre": "boulot",
+    "date": "2026-07-07"
+  },
+  {
+    "expr": "Je suis pas contre",
+    "sens": "Je suis plutôt ouvert à l’idée, sans forcément montrer un grand enthousiasme.",
+    "exemple": "« Un verre en terrasse après le taf ? Je suis pas contre, franchement. »",
+    "registre": "courant",
+    "date": "2026-07-07"
+  },
+  {
+    "expr": "C’est pas fou",
+    "sens": "Ce n’est pas terrible, pas très convaincant ou pas à la hauteur.",
+    "exemple": "« J’ai goûté leur brunch dimanche : c’est pas fou pour le prix. »",
+    "registre": "entre potes",
+    "date": "2026-07-07"
+  },
+  {
     "expr": "Ça me parle",
     "sens": "Ça me semble pertinent, ça me correspond ou l’idée me plaît.",
     "exemple": "« Ton plan resto + petit bar à vin après, franchement ça me parle. »",
