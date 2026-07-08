@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Ça me ferait sortir pour de vrai",
+    "sens": "dit qu’une proposition est suffisamment tentante pour motiver à bouger, même quand on hésitait à rester chez soi",
+    "exemple": "« Un petit bar à vin au bord du canal ? Franchement, ça me ferait sortir pour de vrai. »",
+    "registre": "courant",
+    "date": "2026-07-08"
+  },
+  {
+    "expr": "Je suis un peu en bout de course",
+    "sens": "signifie qu’on n’a plus beaucoup d’énergie physique ou mentale, souvent en fin de journée ou de semaine",
+    "exemple": "« Si on décale la réunion à demain, je prends, là je suis un peu en bout de course. »",
+    "registre": "boulot",
+    "date": "2026-07-08"
+  },
+  {
+    "expr": "On se fait un truc simple et efficace",
+    "sens": "propose un plan sans complication, pratique, agréable et sans y passer des heures",
+    "exemple": "« Pas besoin d’un resto de trois heures, on se fait un truc simple et efficace et basta. »",
+    "registre": "courant",
+    "date": "2026-07-08"
+  },
+  {
+    "expr": "Ça me remet d’équerre",
+    "sens": "veut dire que quelque chose aide à se recentrer, à aller mieux ou à retrouver un bon état d’esprit",
+    "exemple": "« Une douche, un café, dix minutes dehors, et ça me remet d’équerre. »",
+    "registre": "courant",
+    "date": "2026-07-08"
+  },
+  {
     "expr": "Je le sens moyen",
     "sens": "Je ne suis pas très confiant ou pas très motivé pour ce qui est proposé.",
     "exemple": "« Le resto sans résa un vendredi à 21h ? Je le sens moyen, on va galérer. »",
