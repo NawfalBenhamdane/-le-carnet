@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Ça me bute",
+    "sens": "Ça me fait beaucoup rire ou ça me sidère tellement que j’en reviens pas.",
+    "exemple": "« T’as vu sa réponse sur le groupe ? — Oui, ça me bute, il a osé envoyer ça au boss. »",
+    "registre": "entre potes",
+    "date": "2026-07-09"
+  },
+  {
+    "expr": "On part là-dessus",
+    "sens": "On retient cette option et on décide d’avancer comme ça.",
+    "exemple": "« Le resto italien est complet, mais le bar à vins a de la place. On part là-dessus ? »",
+    "registre": "courant",
+    "date": "2026-07-09"
+  },
+  {
+    "expr": "Je suis en saturation",
+    "sens": "Je n’ai plus de marge mentale, je suis trop sollicité ou fatigué.",
+    "exemple": "« Franchement, entre les mails, les calls et le bruit, je suis en saturation cet aprèm. »",
+    "registre": "boulot",
+    "date": "2026-07-09"
+  },
+  {
+    "expr": "Ça fait envie",
+    "sens": "Ça donne vraiment envie, que ce soit pour un plat, une sortie ou une idée.",
+    "exemple": "« Des petites assiettes à partager et un verre en terrasse ? Franchement, ça fait envie. »",
+    "registre": "courant",
+    "date": "2026-07-09"
+  },
+  {
     "expr": "Ça me ferait sortir pour de vrai",
     "sens": "dit qu’une proposition est suffisamment tentante pour motiver à bouger, même quand on hésitait à rester chez soi",
     "exemple": "« Un petit bar à vin au bord du canal ? Franchement, ça me ferait sortir pour de vrai. »",
