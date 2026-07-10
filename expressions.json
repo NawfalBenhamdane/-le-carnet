@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Ça me va de fou",
+    "sens": "ça me convient très bien, je suis vraiment partant",
+    "exemple": "« Pizza, terrasse et on rentre pas trop tard ? — Franchement, ça me va de fou. »",
+    "registre": "entre potes",
+    "date": "2026-07-10"
+  },
+  {
+    "expr": "Je suis un peu en galère",
+    "sens": "je suis dans une situation compliquée ou je manque de temps, d’énergie ou de solution",
+    "exemple": "« Je peux pas passer ce soir, je suis un peu en galère avec deux dossiers à finir. »",
+    "registre": "courant",
+    "date": "2026-07-10"
+  },
+  {
+    "expr": "On se verrouille ça",
+    "sens": "on confirme définitivement une décision, une date ou une organisation",
+    "exemple": "« Si tout le monde est OK pour jeudi 19 h, on se verrouille ça avant midi. »",
+    "registre": "boulot",
+    "date": "2026-07-10"
+  },
+  {
+    "expr": "C’est solide",
+    "sens": "c’est vraiment bien, fiable, convaincant ou réussi",
+    "exemple": "« Ton adresse pour le brunch là, elle est solide, j’y retournerai. »",
+    "registre": "courant",
+    "date": "2026-07-10"
+  },
+  {
     "expr": "Ça me bute",
     "sens": "Ça me fait beaucoup rire ou ça me sidère tellement que j’en reviens pas.",
     "exemple": "« T’as vu sa réponse sur le groupe ? — Oui, ça me bute, il a osé envoyer ça au boss. »",
