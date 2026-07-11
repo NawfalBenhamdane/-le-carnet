@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Je suis pas bien calibré aujourd’hui",
+    "sens": "Dire qu’on n’est pas très en forme, pas très dispo ou un peu à côté de ses pompes.",
+    "exemple": "« Franchement, je suis pas bien calibré aujourd’hui, on peut décaler le resto à demain ? »",
+    "registre": "courant",
+    "date": "2026-07-11"
+  },
+  {
+    "expr": "On se fait un truc sans pression",
+    "sens": "Proposer un moment simple, détendu, sans organisation lourde ni enjeu particulier.",
+    "exemple": "« Ce soir on se fait un truc sans pression, juste un verre et on voit où ça nous mène. »",
+    "registre": "entre potes",
+    "date": "2026-07-11"
+  },
+  {
+    "expr": "Je te boucle ça",
+    "sens": "Dire qu’on va terminer une tâche ou finaliser quelque chose rapidement.",
+    "exemple": "« J’ai encore deux modifs et je te boucle ça avant 17 h. »",
+    "registre": "boulot",
+    "date": "2026-07-11"
+  },
+  {
+    "expr": "Ça me remet un peu dans le game",
+    "sens": "Exprimer que quelque chose redonne de l’énergie, de la motivation ou l’envie de s’y remettre.",
+    "exemple": "« J’étais éclaté ce matin, mais ce café et l’air frais, ça me remet un peu dans le game. »",
+    "registre": "courant",
+    "date": "2026-07-11"
+  },
+  {
     "expr": "Ça me va de fou",
     "sens": "ça me convient très bien, je suis vraiment partant",
     "exemple": "« Pizza, terrasse et on rentre pas trop tard ? — Franchement, ça me va de fou. »",
