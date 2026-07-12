@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Ça me fait lever un sourcil",
+    "sens": "Ça me rend un peu méfiant ou sceptique, sans dire que c’est forcément mauvais.",
+    "exemple": "« Son excuse pour annuler au dernier moment, ça me fait lever un sourcil quand même. »",
+    "registre": "courant",
+    "date": "2026-07-12"
+  },
+  {
+    "expr": "On se fait un plan qui glisse",
+    "sens": "On fait une sortie simple, fluide, sans organisation lourde ni prise de tête.",
+    "exemple": "« Ce soir j’ai pas l’énergie pour un gros truc, on se fait un plan qui glisse ? »",
+    "registre": "entre potes",
+    "date": "2026-07-12"
+  },
+  {
+    "expr": "Je te reprends ça au propre",
+    "sens": "Je retravaille un document, un message ou une idée pour le rendre plus clair et plus présentable.",
+    "exemple": "« J’ai posé les grandes lignes, je te reprends ça au propre avant le call de 14 h. »",
+    "registre": "boulot",
+    "date": "2026-07-12"
+  },
+  {
+    "expr": "Je suis en dedans aujourd’hui",
+    "sens": "Je ne suis pas très en forme, pas très dynamique, un peu refermé sur moi-même.",
+    "exemple": "« Si je parle pas trop ce midi, t’inquiète, je suis un peu en dedans aujourd’hui. »",
+    "registre": "courant",
+    "date": "2026-07-12"
+  },
+  {
     "expr": "Je suis pas bien calibré aujourd’hui",
     "sens": "Dire qu’on n’est pas très en forme, pas très dispo ou un peu à côté de ses pompes.",
     "exemple": "« Franchement, je suis pas bien calibré aujourd’hui, on peut décaler le resto à demain ? »",
