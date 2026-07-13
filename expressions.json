@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Ça me met un stop",
+    "sens": "Ça me freine net, ça me donne moins envie ou ça me bloque.",
+    "exemple": "« Le resto est à l’autre bout et faut réserver trois jours avant ? Franchement, ça me met un stop. »",
+    "registre": "courant",
+    "date": "2026-07-13"
+  },
+  {
+    "expr": "On fait ça proprement",
+    "sens": "On fait les choses sérieusement, sans bâcler, de manière nette et organisée.",
+    "exemple": "« On envoie un truc vite fait ou on fait ça proprement pour demain matin ? »",
+    "registre": "boulot",
+    "date": "2026-07-13"
+  },
+  {
+    "expr": "Je suis pas hyper dispo humainement",
+    "sens": "Je n’ai pas beaucoup d’énergie sociale ou émotionnelle à ce moment-là.",
+    "exemple": "« Ce soir je passe mon tour, je suis pas hyper dispo humainement. »",
+    "registre": "courant",
+    "date": "2026-07-13"
+  },
+  {
+    "expr": "Ça sent le bon plan",
+    "sens": "Ça a l’air d’être une très bonne idée ou une opportunité sympa.",
+    "exemple": "« Une terrasse au soleil, deux planches à partager et personne demain matin ? Ça sent le bon plan. »",
+    "registre": "entre potes",
+    "date": "2026-07-13"
+  },
+  {
     "expr": "Ça me fait lever un sourcil",
     "sens": "Ça me rend un peu méfiant ou sceptique, sans dire que c’est forcément mauvais.",
     "exemple": "« Son excuse pour annuler au dernier moment, ça me fait lever un sourcil quand même. »",
