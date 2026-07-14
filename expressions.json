@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Ça me fume un peu le cerveau",
+    "sens": "Ça me fatigue mentalement ou ça me paraît pénible à suivre.",
+    "exemple": "« Franchement, leur débat sur les tableaux Excel à 19h, ça me fume un peu le cerveau. »",
+    "registre": "courant",
+    "date": "2026-07-14"
+  },
+  {
+    "expr": "On se fait un truc qui vit",
+    "sens": "On prévoit quelque chose de simple, flexible, sans programme trop figé.",
+    "exemple": "« Vendredi, on réserve rien et on se fait un truc qui vit : verre, bouffe, on voit sur place. »",
+    "registre": "entre potes",
+    "date": "2026-07-14"
+  },
+  {
+    "expr": "Je suis un peu en reprise de vie",
+    "sens": "Je reviens doucement à un rythme normal après de la fatigue, une grosse semaine ou une soirée.",
+    "exemple": "« Ce matin je réponds au ralenti, je suis un peu en reprise de vie après le week-end. »",
+    "registre": "courant",
+    "date": "2026-07-14"
+  },
+  {
+    "expr": "Ça, c’est mon petit luxe",
+    "sens": "C’est un plaisir simple mais important pour moi, souvent dans le quotidien ou la bouffe.",
+    "exemple": "« Un vrai dej au soleil avec un café après, ça c’est mon petit luxe. »",
+    "registre": "courant",
+    "date": "2026-07-14"
+  },
+  {
     "expr": "Ça me met un stop",
     "sens": "Ça me freine net, ça me donne moins envie ou ça me bloque.",
     "exemple": "« Le resto est à l’autre bout et faut réserver trois jours avant ? Franchement, ça me met un stop. »",
