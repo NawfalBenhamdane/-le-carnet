@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Ça me tue un peu",
+    "sens": "ça me fait rire ou ça me sidère légèrement, selon le contexte",
+    "exemple": "« Il a ramené un tableau Excel pour organiser le week-end ? Franchement, ça me tue un peu. »",
+    "registre": "courant",
+    "date": "2026-07-15"
+  },
+  {
+    "expr": "On se fait un truc quali",
+    "sens": "on prévoit un moment simple mais vraiment bien choisi, agréable et soigné",
+    "exemple": "« Vendredi, pas juste un verre au hasard : on se fait un truc quali, avec une bonne adresse. »",
+    "registre": "entre potes",
+    "date": "2026-07-15"
+  },
+  {
+    "expr": "Je suis en miettes",
+    "sens": "je suis très fatigué physiquement ou mentalement",
+    "exemple": "« Entre les réunions et le trajet, je suis en miettes, je rentre direct ce soir. »",
+    "registre": "courant",
+    "date": "2026-07-15"
+  },
+  {
+    "expr": "C'est un peu bancal",
+    "sens": "ce n'est pas très convaincant, pas très solide ou mal organisé",
+    "exemple": "« Ton planning tient à peu près, mais avec deux absents en plus, c'est un peu bancal. »",
+    "registre": "boulot",
+    "date": "2026-07-15"
+  },
+  {
     "expr": "Ça me fume un peu le cerveau",
     "sens": "Ça me fatigue mentalement ou ça me paraît pénible à suivre.",
     "exemple": "« Franchement, leur débat sur les tableaux Excel à 19h, ça me fume un peu le cerveau. »",
