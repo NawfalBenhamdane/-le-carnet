@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Ça me lance pas",
+    "sens": "Je ne suis pas vraiment motivé ou emballé par l’idée.",
+    "exemple": "« Ciné à 22h un mercredi ? Franchement, ça me lance pas, je préfère rentrer tôt. »",
+    "registre": "courant",
+    "date": "2026-07-16"
+  },
+  {
+    "expr": "Je suis en social off",
+    "sens": "Je n’ai plus l’énergie de voir du monde ou de parler.",
+    "exemple": "« Je passe mon tour ce soir, je suis en social off depuis 18h. »",
+    "registre": "entre potes",
+    "date": "2026-07-16"
+  },
+  {
+    "expr": "On fait un tour de table vite propre",
+    "sens": "On prend rapidement l’avis de chacun de façon claire et efficace.",
+    "exemple": "« Avant de trancher, on fait un tour de table vite propre et on avance. »",
+    "registre": "boulot",
+    "date": "2026-07-16"
+  },
+  {
+    "expr": "C’est un repas qui rassure",
+    "sens": "C’est une nourriture simple, réconfortante, qui fait du bien.",
+    "exemple": "« Des coquillettes-jambon après une journée comme ça, c’est un repas qui rassure. »",
+    "registre": "courant",
+    "date": "2026-07-16"
+  },
+  {
     "expr": "Ça me tue un peu",
     "sens": "ça me fait rire ou ça me sidère légèrement, selon le contexte",
     "exemple": "« Il a ramené un tableau Excel pour organiser le week-end ? Franchement, ça me tue un peu. »",
