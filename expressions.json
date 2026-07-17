@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Je suis en rad de patience",
+    "sens": "Je n’ai plus trop de patience, je sature nerveusement sans être forcément en colère.",
+    "exemple": "« Si le site plante encore, je suis en rad de patience, là. »",
+    "registre": "courant",
+    "date": "2026-07-17"
+  },
+  {
+    "expr": "On se fait un verre qui compte",
+    "sens": "On se voit pour un vrai moment sympa, pas juste un passage rapide ou un verre expédié.",
+    "exemple": "« Vendredi, on se fait un verre qui compte et on prend le temps, non ? »",
+    "registre": "entre potes",
+    "date": "2026-07-17"
+  },
+  {
+    "expr": "Je te fais une version regardable",
+    "sens": "Je retravaille rapidement un document ou un support pour qu’il soit présentable.",
+    "exemple": "« Le deck est encore brut, je te fais une version regardable avant 15h. »",
+    "registre": "boulot",
+    "date": "2026-07-17"
+  },
+  {
+    "expr": "Ça me met un petit nuage",
+    "sens": "Ça me met de bonne humeur, ça me fait un petit effet très agréable.",
+    "exemple": "« Franchement, ce message de sa part, ça me met un petit nuage. »",
+    "registre": "courant",
+    "date": "2026-07-17"
+  },
+  {
     "expr": "Ça me lance pas",
     "sens": "Je ne suis pas vraiment motivé ou emballé par l’idée.",
     "exemple": "« Ciné à 22h un mercredi ? Franchement, ça me lance pas, je préfère rentrer tôt. »",
