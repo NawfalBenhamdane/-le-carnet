@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Je suis en mousse aujourd’hui",
+    "sens": "Je ne suis pas très efficace, un peu mou ou pas bien concentré.",
+    "exemple": "« Si je mets trois heures à te répondre, m’en veux pas, je suis en mousse aujourd’hui. »",
+    "registre": "courant",
+    "date": "2026-07-18"
+  },
+  {
+    "expr": "On se fait un apéro qui traîne",
+    "sens": "On se retrouve pour boire un verre sans horaire précis, avec l’idée que ça peut durer.",
+    "exemple": "« Vendredi, on se fait un apéro qui traîne ou tout le monde rentre tôt ? »",
+    "registre": "entre potes",
+    "date": "2026-07-18"
+  },
+  {
+    "expr": "Je te le mets en version digeste",
+    "sens": "Je reformule ou je simplifie quelque chose pour que ce soit plus clair et plus facile à lire.",
+    "exemple": "« Le doc est trop dense, je te le mets en version digeste avant l’envoi au client. »",
+    "registre": "boulot",
+    "date": "2026-07-18"
+  },
+  {
+    "expr": "Ça me plombe un peu l’ambiance",
+    "sens": "Ça casse l’élan, l’envie ou la bonne humeur du moment.",
+    "exemple": "« La pluie depuis ce matin, ça me plombe un peu l’ambiance pour ce soir. »",
+    "registre": "courant",
+    "date": "2026-07-18"
+  },
+  {
     "expr": "Je suis en rad de patience",
     "sens": "Je n’ai plus trop de patience, je sature nerveusement sans être forcément en colère.",
     "exemple": "« Si le site plante encore, je suis en rad de patience, là. »",
