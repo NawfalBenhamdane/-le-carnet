@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Ça me fait décroiser",
+    "sens": "Ça me détend, ça me sort d’un état tendu ou fermé.",
+    "exemple": "« Viens, on marche dix minutes avant de rentrer. — Grave, ça me fait décroiser après la journée. »",
+    "registre": "courant",
+    "date": "2026-07-19"
+  },
+  {
+    "expr": "On se fait un vrai bout",
+    "sens": "On va manger quelque chose de consistant, pas juste grignoter.",
+    "exemple": "« Les chips c’est sympa, mais là j’ai faim. On se fait un vrai bout avant le concert ? »",
+    "registre": "entre potes",
+    "date": "2026-07-19"
+  },
+  {
+    "expr": "Je suis en retard de cerveau",
+    "sens": "Je suis lent à comprendre ou à réagir parce que je suis fatigué ou pas bien réveillé.",
+    "exemple": "« Pardon, répète la dernière slide, je suis en retard de cerveau ce matin. »",
+    "registre": "boulot",
+    "date": "2026-07-19"
+  },
+  {
+    "expr": "Ça me tasse un peu",
+    "sens": "Ça me coupe l’élan, ça me baisse moralement sans être dramatique.",
+    "exemple": "« Franchement, l’annulation au dernier moment, ça me tasse un peu. »",
+    "registre": "courant",
+    "date": "2026-07-19"
+  },
+  {
     "expr": "Je suis en mousse aujourd’hui",
     "sens": "Je ne suis pas très efficace, un peu mou ou pas bien concentré.",
     "exemple": "« Si je mets trois heures à te répondre, m’en veux pas, je suis en mousse aujourd’hui. »",
