@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Ça me fait pas rêver",
+    "sens": "Ça ne m’enthousiasme pas vraiment, sans dire non franchement.",
+    "exemple": "« Le resto à la gare un vendredi soir ? Franchement, ça me fait pas rêver, on peut trouver mieux. »",
+    "registre": "courant",
+    "date": "2026-07-20"
+  },
+  {
+    "expr": "On fait ça en léger",
+    "sens": "On fait quelque chose de simple, sans gros programme ni organisation lourde.",
+    "exemple": "« Ce soir j’ai pas l’énergie pour un gros dîner, on fait ça en léger : un verre et on voit. »",
+    "registre": "entre potes",
+    "date": "2026-07-20"
+  },
+  {
+    "expr": "Je suis en tunnel de réunions",
+    "sens": "Je suis bloqué dans une série de réunions, sans vraie pause ni disponibilité.",
+    "exemple": "« Si je réponds tard cet aprèm, c’est normal, je suis en tunnel de réunions jusqu’à 17h. »",
+    "registre": "boulot",
+    "date": "2026-07-20"
+  },
+  {
+    "expr": "Ça me remet une pièce",
+    "sens": "Ça redonne de l’énergie, de la motivation ou de la bonne humeur.",
+    "exemple": "« Le café en terrasse au soleil à midi, ça me remet une pièce pour finir la journée. »",
+    "registre": "courant",
+    "date": "2026-07-20"
+  },
+  {
     "expr": "Ça me fait décroiser",
     "sens": "Ça me détend, ça me sort d’un état tendu ou fermé.",
     "exemple": "« Viens, on marche dix minutes avant de rentrer. — Grave, ça me fait décroiser après la journée. »",
