@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Ça me fait lever les yeux",
+    "sens": "Se dit quand quelque chose agace ou semble franchement absurde, sans aller jusqu’à énerver fort.",
+    "exemple": "« Il a encore changé le brief ce matin ? — Franchement, ça me fait lever les yeux. »",
+    "registre": "boulot",
+    "date": "2026-07-21"
+  },
+  {
+    "expr": "On se fait un dîner de récup",
+    "sens": "Proposer un repas simple et réconfortant, souvent après une grosse journée, une sortie ou une semaine chargée.",
+    "exemple": "« Ce soir je n’ai zéro énergie, on se fait un dîner de récup chez toi ? »",
+    "registre": "courant",
+    "date": "2026-07-21"
+  },
+  {
+    "expr": "Je suis en veille sociale",
+    "sens": "Dire qu’on a envie de voir du monde mais sans trop parler ni trop donner d’énergie.",
+    "exemple": "« Je viens au verre, mais je te préviens, je suis en veille sociale. »",
+    "registre": "entre potes",
+    "date": "2026-07-21"
+  },
+  {
+    "expr": "Ça me dégonfle direct",
+    "sens": "Enlever instantanément l’envie, la motivation ou l’enthousiasme.",
+    "exemple": "« Faire quarante minutes de queue pour bruncher ? Ça me dégonfle direct. »",
+    "registre": "courant",
+    "date": "2026-07-21"
+  },
+  {
     "expr": "Ça me fait pas rêver",
     "sens": "Ça ne m’enthousiasme pas vraiment, sans dire non franchement.",
     "exemple": "« Le resto à la gare un vendredi soir ? Franchement, ça me fait pas rêver, on peut trouver mieux. »",
