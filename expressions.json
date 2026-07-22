@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Ça me met en travers",
+    "sens": "Ça me contrarie ou ça me reste en tête de façon désagréable.",
+    "exemple": "« Franchement, sa remarque en réunion, ça m’a mis en travers. »",
+    "registre": "courant",
+    "date": "2026-07-22"
+  },
+  {
+    "expr": "On se fait un vrai posé",
+    "sens": "On prend un moment tranquille pour se voir, discuter ou manger sans courir.",
+    "exemple": "« Cette semaine j’ai trop bougé, vendredi on se fait un vrai posé ? »",
+    "registre": "entre potes",
+    "date": "2026-07-22"
+  },
+  {
+    "expr": "Je suis en reprise de forme",
+    "sens": "Je reviens doucement à un meilleur état d’énergie après de la fatigue ou une grosse période.",
+    "exemple": "« Ce soir je reste sage, je suis encore en reprise de forme. »",
+    "registre": "courant",
+    "date": "2026-07-22"
+  },
+  {
+    "expr": "Ça fait une bonne base",
+    "sens": "C’est déjà un bon point de départ, quelque chose de suffisant pour avancer.",
+    "exemple": "« On n’a pas tout le budget, mais pour lancer le projet, ça fait une bonne base. »",
+    "registre": "boulot",
+    "date": "2026-07-22"
+  },
+  {
     "expr": "Ça me fait lever les yeux",
     "sens": "Se dit quand quelque chose agace ou semble franchement absurde, sans aller jusqu’à énerver fort.",
     "exemple": "« Il a encore changé le brief ce matin ? — Franchement, ça me fait lever les yeux. »",
