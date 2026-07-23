@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Ça me met pas trop dedans",
+    "sens": "ça ne me motive pas vraiment ou je n’arrive pas à accrocher",
+    "exemple": "« On part sur un resto à la Défense après le taf ? — Franchement, ça me met pas trop dedans, je préfère un truc plus cool. »",
+    "registre": "courant",
+    "date": "2026-07-23"
+  },
+  {
+    "expr": "On se fait un dîner sans manières",
+    "sens": "on mange ensemble simplement, sans se prendre la tête ni faire quelque chose de formel",
+    "exemple": "« Ce soir j’ai zéro énergie pour un gros plan, mais on se fait un dîner sans manières si tu veux. »",
+    "registre": "entre potes",
+    "date": "2026-07-23"
+  },
+  {
+    "expr": "Je suis un peu en retard sur moi-même",
+    "sens": "je me sens lent, pas totalement opérationnel ou mentalement à la traîne",
+    "exemple": "« Si je réponds à côté ce matin, c’est normal, je suis un peu en retard sur moi-même. »",
+    "registre": "courant",
+    "date": "2026-07-23"
+  },
+  {
+    "expr": "On fait une version courte qui respire",
+    "sens": "on simplifie un sujet ou une présentation pour la rendre plus claire et plus légère",
+    "exemple": "« Le deck est trop dense pour le client, on fait une version courte qui respire et on garde le détail en annexe. »",
+    "registre": "boulot",
+    "date": "2026-07-23"
+  },
+  {
     "expr": "Ça me met en travers",
     "sens": "Ça me contrarie ou ça me reste en tête de façon désagréable.",
     "exemple": "« Franchement, sa remarque en réunion, ça m’a mis en travers. »",
