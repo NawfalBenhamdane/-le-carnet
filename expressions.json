@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Ça me met pas droit",
+    "sens": "Ça me met mal à l’aise, ça me gêne ou ça me dérange un peu.",
+    "exemple": "« Le voir faire comme si de rien n’était après la réunion, je t’avoue, ça me met pas droit. »",
+    "registre": "courant",
+    "date": "2026-07-24"
+  },
+  {
+    "expr": "On se fait un verre utile",
+    "sens": "On va boire un verre avec l’idée de vraiment se raconter des choses ou de faire avancer un sujet.",
+    "exemple": "« On se fait un verre utile jeudi ? J’ai deux-trois trucs à te raconter pour de vrai. »",
+    "registre": "entre potes",
+    "date": "2026-07-24"
+  },
+  {
+    "expr": "Je suis en fond de cale",
+    "sens": "Je suis très fatigué, sans énergie, au bout mentalement ou physiquement.",
+    "exemple": "« Franchement aujourd’hui je suis en fond de cale, si on peut éviter de caler ça trop tard, je prends. »",
+    "registre": "courant",
+    "date": "2026-07-24"
+  },
+  {
+    "expr": "On fait une passe propre",
+    "sens": "On fait une relecture ou une dernière vérification simple et soignée avant d’envoyer ou de finir.",
+    "exemple": "« Je te l’envoie dans dix minutes, tu me fais une passe propre et on le sort. »",
+    "registre": "boulot",
+    "date": "2026-07-24"
+  },
+  {
     "expr": "Ça me met pas trop dedans",
     "sens": "ça ne me motive pas vraiment ou je n’arrive pas à accrocher",
     "exemple": "« On part sur un resto à la Défense après le taf ? — Franchement, ça me met pas trop dedans, je préfère un truc plus cool. »",
