@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Ça me fait sortir les mains des poches",
+    "sens": "Ça me motive vraiment à bouger, à participer ou à me lancer.",
+    "exemple": "« Ton idée de week-end en Bretagne, là, ça me fait sortir les mains des poches, je viens. »",
+    "registre": "courant",
+    "date": "2026-07-25"
+  },
+  {
+    "expr": "On se fait un mardi qui ressemble à un vendredi",
+    "sens": "On improvise une sortie ou un moment sympa en semaine comme si on était déjà en fin de semaine.",
+    "exemple": "« J’ai eu une journée trop longue, viens, on se fait un mardi qui ressemble à un vendredi et on mange dehors. »",
+    "registre": "entre potes",
+    "date": "2026-07-25"
+  },
+  {
+    "expr": "Je suis en bout de batterie sociale",
+    "sens": "Je n’ai presque plus d’énergie pour parler, voir du monde ou interagir.",
+    "exemple": "« Le dîner était cool, mais je suis en bout de batterie sociale, je vais rentrer. »",
+    "registre": "courant",
+    "date": "2026-07-25"
+  },
+  {
+    "expr": "On se garde une porte de sortie",
+    "sens": "On prévoit une option souple pour pouvoir changer d’avis ou adapter le plan sans se coincer.",
+    "exemple": "« Pour le resto, on réserve pas trop tôt et on se garde une porte de sortie si tout le monde finit tard. »",
+    "registre": "courant",
+    "date": "2026-07-25"
+  },
+  {
     "expr": "Ça me met pas droit",
     "sens": "Ça me met mal à l’aise, ça me gêne ou ça me dérange un peu.",
     "exemple": "« Le voir faire comme si de rien n’était après la réunion, je t’avoue, ça me met pas droit. »",
