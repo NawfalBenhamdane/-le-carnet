@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Ça me sort de la tête",
+    "sens": "ça me soulage mentalement ou ça me permet d’arrêter d’y penser",
+    "exemple": "« Si on boucle ça ce soir, ça me sort de la tête pour demain. »",
+    "registre": "boulot",
+    "date": "2026-07-26"
+  },
+  {
+    "expr": "On se fait un vrai moment",
+    "sens": "on prévoit un temps de qualité, pas juste un passage rapide",
+    "exemple": "« On se voit jeudi ou on repousse ? — Jeudi, mais on se fait un vrai moment, pas juste quarante minutes. »",
+    "registre": "courant",
+    "date": "2026-07-26"
+  },
+  {
+    "expr": "Je suis un peu en retrait aujourd’hui",
+    "sens": "je suis moins sociable, moins actif ou moins présent que d’habitude",
+    "exemple": "« Si je parle pas trop ce soir, c’est pas contre vous, je suis un peu en retrait aujourd’hui. »",
+    "registre": "courant",
+    "date": "2026-07-26"
+  },
+  {
+    "expr": "Ça fait très envie sur le papier",
+    "sens": "l’idée paraît séduisante en théorie, mais on n’est pas sûr en pratique",
+    "exemple": "« Le brunch à une heure de route, ça fait très envie sur le papier, mais dimanche matin ça va piquer. »",
+    "registre": "entre potes",
+    "date": "2026-07-26"
+  },
+  {
     "expr": "Ça me fait sortir les mains des poches",
     "sens": "Ça me motive vraiment à bouger, à participer ou à me lancer.",
     "exemple": "« Ton idée de week-end en Bretagne, là, ça me fait sortir les mains des poches, je viens. »",
