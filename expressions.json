@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Ça me fait pas quitter mon canap",
+    "sens": "Ça ne me motive pas assez pour sortir ou me bouger.",
+    "exemple": "« Le bar est à quarante minutes et il pleut ? Franchement, ça me fait pas quitter mon canap. »",
+    "registre": "entre potes",
+    "date": "2026-07-27"
+  },
+  {
+    "expr": "On se fait un café marché",
+    "sens": "On se voit rapidement pour discuter utilement, souvent pour prendre une décision ou débloquer un sujet.",
+    "exemple": "« Avant la réunion de 14 h, on se fait un café marché et on tranche le sujet ? »",
+    "registre": "boulot",
+    "date": "2026-07-27"
+  },
+  {
+    "expr": "Je suis pas très expansif aujourd’hui",
+    "sens": "Je suis discret, peu bavard ou pas très sociable aujourd’hui, sans que ce soit grave.",
+    "exemple": "« Si je parle pas trop ce soir, t’inquiète, je suis pas très expansif aujourd’hui. »",
+    "registre": "courant",
+    "date": "2026-07-27"
+  },
+  {
+    "expr": "Ça me tient pas jusqu’au dîner",
+    "sens": "En parlant de nourriture, ce n’est pas assez copieux ou rassasiant.",
+    "exemple": "« Ton yaourt et trois amandes là, désolé, ça me tient pas jusqu’au dîner. »",
+    "registre": "courant",
+    "date": "2026-07-27"
+  },
+  {
     "expr": "Ça me sort de la tête",
     "sens": "ça me soulage mentalement ou ça me permet d’arrêter d’y penser",
     "exemple": "« Si on boucle ça ce soir, ça me sort de la tête pour demain. »",
