@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Ça me met loin",
+    "sens": "Ça me surprend beaucoup, ça me dépasse un peu ou ça me laisse sonné.",
+    "exemple": "« Il a changé de boîte du jour au lendemain ? — Franchement, ça me met loin. »",
+    "registre": "courant",
+    "date": "2026-07-28"
+  },
+  {
+    "expr": "On se fait un bout dehors",
+    "sens": "On va boire ou manger rapidement à l’extérieur, sans en faire tout un programme.",
+    "exemple": "« Il fait encore beau, on se fait un bout dehors après le taf ? »",
+    "registre": "entre potes",
+    "date": "2026-07-28"
+  },
+  {
+    "expr": "Je suis pas très joignable du cerveau",
+    "sens": "Je suis fatigué, déconcentré ou pas très réactif mentalement aujourd’hui.",
+    "exemple": "« Si je réponds à côté en réunion, c’est normal, je suis pas très joignable du cerveau ce matin. »",
+    "registre": "boulot",
+    "date": "2026-07-28"
+  },
+  {
+    "expr": "Ça me refait un peu l’humeur",
+    "sens": "Ça me remet de meilleure humeur, ça me remonte légèrement le moral.",
+    "exemple": "« Le message qu’elle m’a envoyé ce matin, ça me refait un peu l’humeur. »",
+    "registre": "courant",
+    "date": "2026-07-28"
+  },
+  {
     "expr": "Ça me fait pas quitter mon canap",
     "sens": "Ça ne me motive pas assez pour sortir ou me bouger.",
     "exemple": "« Le bar est à quarante minutes et il pleut ? Franchement, ça me fait pas quitter mon canap. »",
