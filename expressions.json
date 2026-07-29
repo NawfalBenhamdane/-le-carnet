@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Ça me vend pas du rêve là",
+    "sens": "Ça ne me motive pas du tout ou ça ne me paraît pas très attirant.",
+    "exemple": "« Franchement, un resto blindé à 22h après le taf ? Ça me vend pas du rêve là. »",
+    "registre": "courant",
+    "date": "2026-07-29"
+  },
+  {
+    "expr": "On fait ça en mode simple",
+    "sens": "On évite de compliquer les choses et on choisit l’option la plus facile ou naturelle.",
+    "exemple": "« Pour ce soir, on fait ça en mode simple : un verre, deux assiettes à partager et basta. »",
+    "registre": "entre potes",
+    "date": "2026-07-29"
+  },
+  {
+    "expr": "Je suis un peu court en énergie",
+    "sens": "Je n’ai plus beaucoup de force ou de motivation à ce moment-là.",
+    "exemple": "« Si je réponds demain, c’est pas perso, je suis un peu court en énergie aujourd’hui. »",
+    "registre": "courant",
+    "date": "2026-07-29"
+  },
+  {
+    "expr": "On se refait ça au propre demain",
+    "sens": "On reprend le sujet plus calmement, de façon plus claire et plus structurée, le lendemain.",
+    "exemple": "« Là on a tous la tête ailleurs, on se refait ça au propre demain en visio. »",
+    "registre": "boulot",
+    "date": "2026-07-29"
+  },
+  {
     "expr": "Ça me met loin",
     "sens": "Ça me surprend beaucoup, ça me dépasse un peu ou ça me laisse sonné.",
     "exemple": "« Il a changé de boîte du jour au lendemain ? — Franchement, ça me met loin. »",
