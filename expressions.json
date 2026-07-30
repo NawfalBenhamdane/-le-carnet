@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Ça me cueille un peu",
+    "sens": "Ça me surprend ou ça me touche plus que prévu, souvent émotionnellement ou mentalement.",
+    "exemple": "« J’ai revu des photos du week-end avec mon grand-père, je t’avoue, ça me cueille un peu aujourd’hui. »",
+    "registre": "courant",
+    "date": "2026-07-30"
+  },
+  {
+    "expr": "On se fait un bout de terrasse ?",
+    "sens": "Proposer de se retrouver dehors pour boire un verre ou discuter un moment de façon simple et détendue.",
+    "exemple": "« Il fait encore bon, on se fait un bout de terrasse après le taf ? »",
+    "registre": "entre potes",
+    "date": "2026-07-30"
+  },
+  {
+    "expr": "Je suis en draft humain",
+    "sens": "Je fonctionne au minimum socialement, sans grande énergie pour parler ou interagir.",
+    "exemple": "« Si je réponds en monosyllabes en réunion, c’est pas contre vous, je suis en draft humain depuis ce matin. »",
+    "registre": "boulot",
+    "date": "2026-07-30"
+  },
+  {
+    "expr": "Ça fait une assiette de secours",
+    "sens": "Se dit d’un plat simple, pratique et réconfortant qu’on mange quand on n’a ni temps ni inspiration.",
+    "exemple": "« Des œufs, du riz, un peu d’avocat… franchement ça fait une assiette de secours très honnête. »",
+    "registre": "courant",
+    "date": "2026-07-30"
+  },
+  {
     "expr": "Ça me vend pas du rêve là",
     "sens": "Ça ne me motive pas du tout ou ça ne me paraît pas très attirant.",
     "exemple": "« Franchement, un resto blindé à 22h après le taf ? Ça me vend pas du rêve là. »",
