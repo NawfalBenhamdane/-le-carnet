@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Ça me fait sortir du brouillard",
+    "sens": "Ça m’aide à y voir plus clair, à retrouver un peu d’énergie ou de lucidité.",
+    "exemple": "« Viens, on marche dix minutes avant de reprendre. — Franchement ouais, ça me fait sortir du brouillard. »",
+    "registre": "courant",
+    "date": "2026-07-31"
+  },
+  {
+    "expr": "On se fait un verre de débrief",
+    "sens": "On va boire un verre pour reparler tranquillement de ce qui s’est passé, souvent après le boulot ou un événement.",
+    "exemple": "« La journée a été longue, on se fait un verre de débrief en bas ? »",
+    "registre": "boulot",
+    "date": "2026-07-31"
+  },
+  {
+    "expr": "Je suis pas au niveau du jour",
+    "sens": "Je ne me sens pas en forme, pas assez réveillé ou pas assez efficace pour ce qu’on me demande aujourd’hui.",
+    "exemple": "« Si je réponds à côté en réunion, m’en veux pas, je suis pas au niveau du jour. »",
+    "registre": "courant",
+    "date": "2026-07-31"
+  },
+  {
+    "expr": "Ça sent la bonne assiette",
+    "sens": "Ça annonce un repas simple mais très bon, réconfortant ou généreux.",
+    "exemple": "« Pâtes, burrata, tomates confites ? Là, ça sent la bonne assiette. »",
+    "registre": "entre potes",
+    "date": "2026-07-31"
+  },
+  {
     "expr": "Ça me cueille un peu",
     "sens": "Ça me surprend ou ça me touche plus que prévu, souvent émotionnellement ou mentalement.",
     "exemple": "« J’ai revu des photos du week-end avec mon grand-père, je t’avoue, ça me cueille un peu aujourd’hui. »",
