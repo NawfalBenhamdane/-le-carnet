@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Ça me fait lever du canapé",
+    "sens": "Ça me motive réellement à sortir ou à faire quelque chose, alors que je n’étais pas spécialement partant.",
+    "exemple": "« Un resto coréen puis un verre au bord du canal ? Franchement, ça me fait lever du canapé. »",
+    "registre": "entre potes",
+    "date": "2026-08-01"
+  },
+  {
+    "expr": "On se fait un midi qui change",
+    "sens": "Proposer un déjeuner un peu plus sympa ou différent que d’habitude, souvent entre collègues ou amis.",
+    "exemple": "« Marre du sandwich au bureau, on se fait un midi qui change demain ? »",
+    "registre": "courant",
+    "date": "2026-08-01"
+  },
+  {
+    "expr": "Je suis un peu en retard d’humeur",
+    "sens": "On n’est pas encore vraiment dedans émotionnellement ou socialement, on met du temps à démarrer.",
+    "exemple": "« Si je parle pas trop ce matin, c’est pas toi, je suis un peu en retard d’humeur. »",
+    "registre": "courant",
+    "date": "2026-08-01"
+  },
+  {
+    "expr": "Ça fait une réunion de trop",
+    "sens": "Se dit quand une demande, un échange ou un sujet semble inutilement lourd, surtout dans le contexte du travail.",
+    "exemple": "« Pour valider un titre de slide, là, ça fait une réunion de trop. »",
+    "registre": "boulot",
+    "date": "2026-08-01"
+  },
+  {
     "expr": "Ça me fait sortir du brouillard",
     "sens": "Ça m’aide à y voir plus clair, à retrouver un peu d’énergie ou de lucidité.",
     "exemple": "« Viens, on marche dix minutes avant de reprendre. — Franchement ouais, ça me fait sortir du brouillard. »",
