@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Ça me sort un peu du cadre",
+    "sens": "Dit qu’une proposition, une remarque ou une situation met mal à l’aise ou ne correspond pas à ce qu’on voulait faire.",
+    "exemple": "« Ton idée de karaoké surprise à 23 h, je t’avoue, ça me sort un peu du cadre ce soir. »",
+    "registre": "courant",
+    "date": "2026-08-02"
+  },
+  {
+    "expr": "On se fait un vrai passage",
+    "sens": "Propose de se voir pour un moment bref mais réel, pas juste cinq minutes debout entre deux trucs.",
+    "exemple": "« Je suis dans le quartier vers 19 h, on se fait un vrai passage avant que je rentre ? »",
+    "registre": "entre potes",
+    "date": "2026-08-02"
+  },
+  {
+    "expr": "Je suis en fin de sociabilité",
+    "sens": "Signifie qu’on n’a presque plus d’énergie pour parler, voir du monde ou interagir.",
+    "exemple": "« Si je pars tôt de l’afterwork, c’est pas contre vous, je suis en fin de sociabilité. »",
+    "registre": "courant",
+    "date": "2026-08-02"
+  },
+  {
+    "expr": "Ça mérite un vrai déjeuner",
+    "sens": "S’emploie quand un sujet est trop important pour être traité vite fait et demande un échange plus posé.",
+    "exemple": "« Le projet de reconversion dont tu me parles, franchement, ça mérite un vrai déjeuner. »",
+    "registre": "boulot",
+    "date": "2026-08-02"
+  },
+  {
     "expr": "Ça me fait lever du canapé",
     "sens": "Ça me motive réellement à sortir ou à faire quelque chose, alors que je n’étais pas spécialement partant.",
     "exemple": "« Un resto coréen puis un verre au bord du canal ? Franchement, ça me fait lever du canapé. »",
