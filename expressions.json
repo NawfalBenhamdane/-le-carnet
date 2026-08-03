@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Ça me remet pas les idées droites",
+    "sens": "Ça ne me motive pas ou ça ne me fait pas du bien mentalement sur le moment.",
+    "exemple": "« Ton resto à volonté un lundi soir ? Franchement, ça me remet pas les idées droites, je partirais plus sur un truc simple. »",
+    "registre": "courant",
+    "date": "2026-08-03"
+  },
+  {
+    "expr": "On se fait une sortie sans mission",
+    "sens": "On se voit sans programme compliqué, juste pour passer un bon moment.",
+    "exemple": "« Ce soir j’ai zéro courage pour un gros plan, on se fait une sortie sans mission et on avise sur place ? »",
+    "registre": "entre potes",
+    "date": "2026-08-03"
+  },
+  {
+    "expr": "Je suis en bout de politesse",
+    "sens": "Je n’ai plus beaucoup d’énergie sociale et je risque d’être moins patient ou moins expressif.",
+    "exemple": "« Si je parle peu en fin d’afterwork, t’inquiète, je suis juste en bout de politesse. »",
+    "registre": "courant",
+    "date": "2026-08-03"
+  },
+  {
+    "expr": "On fait une version qui se défend",
+    "sens": "On prépare quelque chose de correct, solide et présentable, sans viser la perfection.",
+    "exemple": "« Pour le client, on fait une version qui se défend pour 16 h, et on peaufine demain. »",
+    "registre": "boulot",
+    "date": "2026-08-03"
+  },
+  {
     "expr": "Ça me sort un peu du cadre",
     "sens": "Dit qu’une proposition, une remarque ou une situation met mal à l’aise ou ne correspond pas à ce qu’on voulait faire.",
     "exemple": "« Ton idée de karaoké surprise à 23 h, je t’avoue, ça me sort un peu du cadre ce soir. »",
