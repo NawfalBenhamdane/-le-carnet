@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Ça me fait pas traverser Paris",
+    "sens": "Ça ne motive pas assez pour faire l’effort de venir ou de se déplacer.",
+    "exemple": "« Le bar est sympa, mais à Montreuil un jeudi soir ? Franchement, ça me fait pas traverser Paris. »",
+    "registre": "courant",
+    "date": "2026-08-04"
+  },
+  {
+    "expr": "On se fait un apéro d’atterrissage ?",
+    "sens": "On se retrouve pour un verre tranquille en fin de journée pour redescendre après le boulot.",
+    "exemple": "« J’ai eu une journée absurde, on se fait un apéro d’atterrissage vers 19h ? »",
+    "registre": "entre potes",
+    "date": "2026-08-04"
+  },
+  {
+    "expr": "Je suis en version minimale aujourd’hui",
+    "sens": "On n’a pas beaucoup d’énergie ou de disponibilité, on fait juste le strict nécessaire.",
+    "exemple": "« Si je réponds sec, c’est pas contre toi, je suis en version minimale aujourd’hui. »",
+    "registre": "courant",
+    "date": "2026-08-04"
+  },
+  {
+    "expr": "On peut lui faire une sortie propre",
+    "sens": "Au travail, on peut finaliser un document, un projet ou une présentation de façon satisfaisante et présentable.",
+    "exemple": "« Le fond est là, il manque deux retouches et on peut lui faire une sortie propre pour demain matin. »",
+    "registre": "boulot",
+    "date": "2026-08-04"
+  },
+  {
     "expr": "Ça me remet pas les idées droites",
     "sens": "Ça ne me motive pas ou ça ne me fait pas du bien mentalement sur le moment.",
     "exemple": "« Ton resto à volonté un lundi soir ? Franchement, ça me remet pas les idées droites, je partirais plus sur un truc simple. »",
