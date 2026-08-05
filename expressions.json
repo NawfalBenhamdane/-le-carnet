@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Ça me met pas en mouvement",
+    "sens": "Ça ne me motive pas assez pour que je fasse l’effort ou que je me lance.",
+    "exemple": "« Le resto est à quarante minutes et il pleut ? Franchement, ça me met pas en mouvement. »",
+    "registre": "courant",
+    "date": "2026-08-05"
+  },
+  {
+    "expr": "On se fait un after qui déborde ?",
+    "sens": "Proposer un verre ou un moment après le boulot qui peut durer un peu plus que prévu.",
+    "exemple": "« Si personne rentre tôt, on se fait un after qui déborde ? »",
+    "registre": "boulot",
+    "date": "2026-08-05"
+  },
+  {
+    "expr": "Je suis en sociabilité fragile",
+    "sens": "Je suis capable de voir du monde, mais avec peu d’énergie sociale et sans trop forcer.",
+    "exemple": "« Je viens au dîner, mais je te préviens, je suis en sociabilité fragile ce soir. »",
+    "registre": "entre potes",
+    "date": "2026-08-05"
+  },
+  {
+    "expr": "Ça a un petit goût de reviens-y",
+    "sens": "Se dit de quelque chose de très plaisant, souvent à manger ou à boire, qu’on a envie de reprendre.",
+    "exemple": "« Ton tiramisu, là, il a un petit goût de reviens-y, c’est dangereux. »",
+    "registre": "courant",
+    "date": "2026-08-05"
+  },
+  {
     "expr": "Ça me fait pas traverser Paris",
     "sens": "Ça ne motive pas assez pour faire l’effort de venir ou de se déplacer.",
     "exemple": "« Le bar est sympa, mais à Montreuil un jeudi soir ? Franchement, ça me fait pas traverser Paris. »",
