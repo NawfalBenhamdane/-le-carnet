@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Ça me fait une soirée canapé",
+    "sens": "Dit qu’une proposition ne donne pas assez envie pour sortir et pousse plutôt à rester chez soi.",
+    "exemple": "« Le bar est à quarante minutes et il pleut ? Franchement, ça me fait une soirée canapé. »",
+    "registre": "courant",
+    "date": "2026-08-06"
+  },
+  {
+    "expr": "On se fait un verre de transition ?",
+    "sens": "Propose un verre juste après le travail, pour décompresser avant de rentrer ou de continuer la soirée.",
+    "exemple": "« J’ai encore la tête dans mes mails, on se fait un verre de transition avant de rentrer ? »",
+    "registre": "boulot",
+    "date": "2026-08-06"
+  },
+  {
+    "expr": "Je suis en social réduit",
+    "sens": "Signifie qu’on a peu d’énergie pour voir du monde ou discuter longtemps.",
+    "exemple": "« Je passe une heure et je file, je suis en social réduit aujourd’hui. »",
+    "registre": "entre potes",
+    "date": "2026-08-06"
+  },
+  {
+    "expr": "Ça sent le plat qui fait la paix",
+    "sens": "Se dit d’un plat simple et réconfortant, qui remet de bonne humeur.",
+    "exemple": "« Des coquillettes-jambon avec du comté ? Ça sent le plat qui fait la paix. »",
+    "registre": "courant",
+    "date": "2026-08-06"
+  },
+  {
     "expr": "Ça me met pas en mouvement",
     "sens": "Ça ne me motive pas assez pour que je fasse l’effort ou que je me lance.",
     "exemple": "« Le resto est à quarante minutes et il pleut ? Franchement, ça me met pas en mouvement. »",
