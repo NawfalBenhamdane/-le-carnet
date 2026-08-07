@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Ça me met en travers de la journée",
+    "sens": "Se dit de quelque chose qui gâche l’humeur ou plombe le reste de la journée.",
+    "exemple": "« Le call à 8 h avec une mauvaise nouvelle, ça m’a mis en travers de la journée. »",
+    "registre": "courant",
+    "date": "2026-08-07"
+  },
+  {
+    "expr": "On se fait un verre tampon ?",
+    "sens": "Proposer un verre entre deux moments de la journée, souvent pour souffler avant de rentrer ou avant une autre sortie.",
+    "exemple": "« J’ai une heure avant mon dîner, on se fait un verre tampon vers République ? »",
+    "registre": "entre potes",
+    "date": "2026-08-07"
+  },
+  {
+    "expr": "Je suis en pente douce aujourd’hui",
+    "sens": "Dire qu’on avance lentement, sans grande énergie, mais sans être complètement à plat.",
+    "exemple": "« Ne m’envoie pas dix sujets d’un coup, je suis en pente douce aujourd’hui. »",
+    "registre": "courant",
+    "date": "2026-08-07"
+  },
+  {
+    "expr": "Ça mérite pas un mail, ça mérite un vocal",
+    "sens": "S’emploie quand un sujet est trop nuancé, trop humain ou trop long pour être bien expliqué par écrit.",
+    "exemple": "« Pour l’histoire avec le client, ça mérite pas un mail, ça mérite un vocal. »",
+    "registre": "boulot",
+    "date": "2026-08-07"
+  },
+  {
     "expr": "Ça me fait une soirée canapé",
     "sens": "Dit qu’une proposition ne donne pas assez envie pour sortir et pousse plutôt à rester chez soi.",
     "exemple": "« Le bar est à quarante minutes et il pleut ? Franchement, ça me fait une soirée canapé. »",
