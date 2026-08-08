@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Ça me fait décrocher du bureau",
+    "sens": "Ça me donne vraiment envie de quitter le travail ou l’écran pour sortir ou faire autre chose.",
+    "exemple": "« Une terrasse au soleil à 19h ? — Franchement oui, ça me fait décrocher du bureau. »",
+    "registre": "courant",
+    "date": "2026-08-08"
+  },
+  {
+    "expr": "On se fait un dîner qui ne négocie pas",
+    "sens": "On se fait un vrai bon repas, réconfortant et assumé, sans chipoter ni faire semblant de manger léger.",
+    "exemple": "« Salade ou pâtes ? — Non, ce soir on se fait un dîner qui ne négocie pas. »",
+    "registre": "entre potes",
+    "date": "2026-08-08"
+  },
+  {
+    "expr": "Je suis un peu en friction aujourd’hui",
+    "sens": "Je suis irritable, tendu ou tout me demande un effort aujourd’hui.",
+    "exemple": "« Si je réponds sec, c’est pas contre toi, je suis un peu en friction aujourd’hui. »",
+    "registre": "courant",
+    "date": "2026-08-08"
+  },
+  {
+    "expr": "On peut le garder hors réunion",
+    "sens": "On peut traiter ce sujet simplement, sans en faire une réunion formelle.",
+    "exemple": "« Pour ce point-là, on peut le garder hors réunion, ça ira plus vite. »",
+    "registre": "boulot",
+    "date": "2026-08-08"
+  },
+  {
     "expr": "Ça me met en travers de la journée",
     "sens": "Se dit de quelque chose qui gâche l’humeur ou plombe le reste de la journée.",
     "exemple": "« Le call à 8 h avec une mauvaise nouvelle, ça m’a mis en travers de la journée. »",
