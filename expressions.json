@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Ça me fait sortir de mon terrier",
+    "sens": "Ça me donne envie de bouger alors que j’avais plutôt prévu de rester chez moi.",
+    "exemple": "« Un resto thaï et un verre en terrasse ? Franchement, ça me fait sortir de mon terrier. »",
+    "registre": "entre potes",
+    "date": "2026-08-09"
+  },
+  {
+    "expr": "On se fait un café de reprise ?",
+    "sens": "Proposer un café pour se remettre dans le rythme, souvent après une période chargée, des vacances ou un gros dossier.",
+    "exemple": "« J’ai l’impression qu’on ne s’est pas parlé depuis cent ans, on se fait un café de reprise cet aprèm ? »",
+    "registre": "boulot",
+    "date": "2026-08-09"
+  },
+  {
+    "expr": "Je suis un peu en carton aujourd’hui",
+    "sens": "Je ne suis pas très en forme, je me sens fragile, fatigué ou pas très solide.",
+    "exemple": "« Si je réponds à moitié, c’est normal, je suis un peu en carton aujourd’hui. »",
+    "registre": "courant",
+    "date": "2026-08-09"
+  },
+  {
+    "expr": "Ça a l’air trop honnête",
+    "sens": "Se dit d’un plat, d’un lieu ou d’un plan simple mais vraiment attirant, sans chichi.",
+    "exemple": "« Le sandwich poulet rôti là, il a l’air trop honnête, je prends ça direct. »",
+    "registre": "courant",
+    "date": "2026-08-09"
+  },
+  {
     "expr": "Ça me fait décrocher du bureau",
     "sens": "Ça me donne vraiment envie de quitter le travail ou l’écran pour sortir ou faire autre chose.",
     "exemple": "« Une terrasse au soleil à 19h ? — Franchement oui, ça me fait décrocher du bureau. »",
