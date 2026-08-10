@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Je suis en reprise sociale",
+    "sens": "je recommence doucement à voir du monde, sans être encore très partant pour des gros plans",
+    "exemple": "« Ce soir je passe une heure, mais je suis en reprise sociale, hein. »",
+    "registre": "courant",
+    "date": "2026-08-10"
+  },
+  {
+    "expr": "On se fait un verre sans concept ?",
+    "sens": "on va boire un verre simplement, sans occasion particulière ni programme compliqué",
+    "exemple": "« J’ai pas envie d’un gros truc organisé, on se fait un verre sans concept ? »",
+    "registre": "entre potes",
+    "date": "2026-08-10"
+  },
+  {
+    "expr": "Ça m’a pris toute ma jauge",
+    "sens": "ça m’a vidé mentalement ou socialement, je n’ai plus beaucoup d’énergie après ça",
+    "exemple": "« La journée clients m’a pris toute ma jauge, je rentre direct après le bureau. »",
+    "registre": "courant",
+    "date": "2026-08-10"
+  },
+  {
+    "expr": "On peut le traiter en couloir",
+    "sens": "on peut régler ce sujet vite fait, sans réunion formelle ni long échange",
+    "exemple": "« Pour ce point-là, pas besoin de caler un créneau, on peut le traiter en couloir. »",
+    "registre": "boulot",
+    "date": "2026-08-10"
+  },
+  {
     "expr": "Ça me fait sortir de mon terrier",
     "sens": "Ça me donne envie de bouger alors que j’avais plutôt prévu de rester chez moi.",
     "exemple": "« Un resto thaï et un verre en terrasse ? Franchement, ça me fait sortir de mon terrier. »",
