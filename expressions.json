@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Ça me fait une vraie coupure",
+    "sens": "Se dit d’un plan, d’un moment ou d’une activité qui permet de décrocher mentalement et de respirer un peu.",
+    "exemple": "« Viens, on déjeune dehors, ça me fait une vraie coupure entre deux dossiers. »",
+    "registre": "courant",
+    "date": "2026-08-11"
+  },
+  {
+    "expr": "On se fait un bout de vrai",
+    "sens": "Proposer un moment simple et sincère pour discuter ou se voir, sans programme compliqué ni mise en scène.",
+    "exemple": "« Cette semaine j’ai trop couru, on se fait un bout de vrai jeudi soir ? »",
+    "registre": "entre potes",
+    "date": "2026-08-11"
+  },
+  {
+    "expr": "Je suis un peu en retard d’énergie",
+    "sens": "Dire qu’on est physiquement ou mentalement fatigué, pas encore vraiment lancé dans sa journée.",
+    "exemple": "« Ce matin je vais parler doucement, je suis un peu en retard d’énergie. »",
+    "registre": "courant",
+    "date": "2026-08-11"
+  },
+  {
+    "expr": "On peut le sortir du flux",
+    "sens": "Au travail, proposer de traiter un sujet à part pour éviter qu’il se perde dans les messages, la réunion ou l’enchaînement général.",
+    "exemple": "« Le sujet budget prend trop de place là, on peut le sortir du flux et se caler dix minutes après ? »",
+    "registre": "boulot",
+    "date": "2026-08-11"
+  },
+  {
     "expr": "Je suis en reprise sociale",
     "sens": "je recommence doucement à voir du monde, sans être encore très partant pour des gros plans",
     "exemple": "« Ce soir je passe une heure, mais je suis en reprise sociale, hein. »",
