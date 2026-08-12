@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Ça me met en cran",
+    "sens": "Ça me tend, ça me met légèrement sous pression ou sur les nerfs.",
+    "exemple": "« Le flou de dernière minute, là, ça me met en cran. Tu me dis juste si on maintient ou pas ? »",
+    "registre": "courant",
+    "date": "2026-08-12"
+  },
+  {
+    "expr": "On se fait un vrai tour d’air ?",
+    "sens": "Proposer de sortir un peu, marcher ou prendre l’air pour couper.",
+    "exemple": "« J’ai trop enchaîné aujourd’hui. On se fait un vrai tour d’air avant de rentrer ? »",
+    "registre": "entre potes",
+    "date": "2026-08-12"
+  },
+  {
+    "expr": "Je l’ai pris de face",
+    "sens": "J’ai reçu quelque chose sans filtre, ça m’a touché ou surpris directement.",
+    "exemple": "« Son message, je l’ai pris de face ce matin, j’avoue. J’ai mis un moment à redescendre. »",
+    "registre": "courant",
+    "date": "2026-08-12"
+  },
+  {
+    "expr": "On peut le jouer en petite boucle",
+    "sens": "Traiter un sujet à peu de personnes, de façon simple et sans en faire un gros dispositif.",
+    "exemple": "« Pour ce sujet-là, on peut le jouer en petite boucle : toi, moi, et Juliette, ça suffit. »",
+    "registre": "boulot",
+    "date": "2026-08-12"
+  },
+  {
     "expr": "Ça me fait une vraie coupure",
     "sens": "Se dit d’un plan, d’un moment ou d’une activité qui permet de décrocher mentalement et de respirer un peu.",
     "exemple": "« Viens, on déjeune dehors, ça me fait une vraie coupure entre deux dossiers. »",
