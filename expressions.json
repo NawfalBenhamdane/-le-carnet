@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Ça me flingue un peu la vibe",
+    "sens": "Ça casse l’ambiance ou ça enlève l’envie sur le moment.",
+    "exemple": "« Franchement, la pluie là, ça me flingue un peu la vibe pour la terrasse. »",
+    "registre": "entre potes",
+    "date": "2026-08-13"
+  },
+  {
+    "expr": "On se fait un dîner en roue douce ?",
+    "sens": "Proposer un repas tranquille, sans programme lourd ni grosse sortie.",
+    "exemple": "« J’ai pas l’énergie pour un gros truc, on se fait un dîner en roue douce ? »",
+    "registre": "courant",
+    "date": "2026-08-13"
+  },
+  {
+    "expr": "Je suis en surcharge de gens",
+    "sens": "On a trop vu ou trop géré de monde et on a besoin de calme.",
+    "exemple": "« Je passe pas ce soir, je suis en surcharge de gens depuis ce matin. »",
+    "registre": "courant",
+    "date": "2026-08-13"
+  },
+  {
+    "expr": "On peut le faire sans grand cirque",
+    "sens": "Faire quelque chose simplement, sans en rajouter ni compliquer.",
+    "exemple": "« Pour la prez, on peut le faire sans grand cirque, juste un support clair et c’est bon. »",
+    "registre": "boulot",
+    "date": "2026-08-13"
+  },
+  {
     "expr": "Ça me met en cran",
     "sens": "Ça me tend, ça me met légèrement sous pression ou sur les nerfs.",
     "exemple": "« Le flou de dernière minute, là, ça me met en cran. Tu me dis juste si on maintient ou pas ? »",
