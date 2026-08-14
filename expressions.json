@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Ça me casse un peu l’élan",
+    "sens": "Ça me coupe la motivation ou l’envie sur le moment.",
+    "exemple": "« J’étais chaud pour venir, mais s’il faut encore changer de bar, ça me casse un peu l’élan. »",
+    "registre": "courant",
+    "date": "2026-08-14"
+  },
+  {
+    "expr": "On se fait un apéro qui traîne pas",
+    "sens": "On prend juste un verre rapide, sans partir sur une longue soirée.",
+    "exemple": "« J’ai une grosse journée demain, mais on peut se faire un apéro qui traîne pas vers 19h. »",
+    "registre": "entre potes",
+    "date": "2026-08-14"
+  },
+  {
+    "expr": "Je suis en bout de concentration",
+    "sens": "Je n’arrive plus vraiment à me concentrer, j’ai atteint ma limite pour aujourd’hui.",
+    "exemple": "« Si tu veux, on reprend ce dossier demain matin, là je suis en bout de concentration. »",
+    "registre": "boulot",
+    "date": "2026-08-14"
+  },
+  {
+    "expr": "Ça a l’air franchement rentable",
+    "sens": "Ça semble valoir le coup, être intéressant ou agréable par rapport à l’effort ou au prix.",
+    "exemple": "« Le resto fait entrée-plat-verre de vin pour 22 euros ? Franchement, ça a l’air rentable. »",
+    "registre": "courant",
+    "date": "2026-08-14"
+  },
+  {
     "expr": "Ça me flingue un peu la vibe",
     "sens": "Ça casse l’ambiance ou ça enlève l’envie sur le moment.",
     "exemple": "« Franchement, la pluie là, ça me flingue un peu la vibe pour la terrasse. »",
