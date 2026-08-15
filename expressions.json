@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Ça me fait lever les épaules",
+    "sens": "Ça me laisse assez indifférent ou pas très convaincu.",
+    "exemple": "« Ton idée de team building là, je sais pas… ça me fait lever les épaules, pas plus. »",
+    "registre": "boulot",
+    "date": "2026-08-15"
+  },
+  {
+    "expr": "On se fait un verre qui dépasse pas",
+    "sens": "On va boire un verre rapide, sans y passer la soirée.",
+    "exemple": "« J’ai encore un peu de jus, mais pas pour finir tard : on se fait un verre qui dépasse pas ? »",
+    "registre": "courant",
+    "date": "2026-08-15"
+  },
+  {
+    "expr": "Je suis en humeur parking",
+    "sens": "Je suis dans un état un peu plat, sans élan, avec envie de rester tranquille.",
+    "exemple": "« Ce soir je passe, hein. Je suis en humeur parking, j’ai juste envie de rentrer. »",
+    "registre": "entre potes",
+    "date": "2026-08-15"
+  },
+  {
+    "expr": "Ça sent le plat qui répare",
+    "sens": "Ça évoque un repas réconfortant, simple et vraiment satisfaisant.",
+    "exemple": "« Purée-saucisse après cette journée ? Là, franchement, ça sent le plat qui répare. »",
+    "registre": "courant",
+    "date": "2026-08-15"
+  },
+  {
     "expr": "Ça me casse un peu l’élan",
     "sens": "Ça me coupe la motivation ou l’envie sur le moment.",
     "exemple": "« J’étais chaud pour venir, mais s’il faut encore changer de bar, ça me casse un peu l’élan. »",
