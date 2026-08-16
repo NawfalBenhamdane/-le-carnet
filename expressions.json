@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Je suis en fin de stock",
+    "sens": "Je n’ai presque plus d’énergie, de patience ou de motivation pour continuer.",
+    "exemple": "« Si on rajoute encore une visio à 18 h, je suis en fin de stock. »",
+    "registre": "boulot",
+    "date": "2026-08-16"
+  },
+  {
+    "expr": "On se fait un dîner sans prise de tête ?",
+    "sens": "Proposer un repas simple, détendu, sans organisation compliquée ni attentes particulières.",
+    "exemple": "« Ce soir j’ai pas envie d’un resto branché, on se fait un dîner sans prise de tête ? »",
+    "registre": "courant",
+    "date": "2026-08-16"
+  },
+  {
+    "expr": "Ça me met un peu à côté",
+    "sens": "Ça me perturbe, me met mal à l’aise ou me coupe dans mon élan.",
+    "exemple": "« L’ambiance depuis ce matin me met un peu à côté, j’avoue. »",
+    "registre": "courant",
+    "date": "2026-08-16"
+  },
+  {
+    "expr": "Ça sent la bonne pause",
+    "sens": "On sent qu’un moment de pause ou de détente ferait vraiment du bien.",
+    "exemple": "« Trois heures de calls d’affilée, là, ça sent la bonne pause café. »",
+    "registre": "boulot",
+    "date": "2026-08-16"
+  },
+  {
     "expr": "Ça me fait lever les épaules",
     "sens": "Ça me laisse assez indifférent ou pas très convaincu.",
     "exemple": "« Ton idée de team building là, je sais pas… ça me fait lever les épaules, pas plus. »",
