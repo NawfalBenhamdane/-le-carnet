@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Je suis en bout de phrase",
+    "sens": "Je n’ai plus l’énergie mentale pour parler, expliquer ou continuer la discussion longtemps.",
+    "exemple": "« Si tu veux on en reparle demain, là je suis en bout de phrase. »",
+    "registre": "courant",
+    "date": "2026-08-17"
+  },
+  {
+    "expr": "On se fait un verre de sas ?",
+    "sens": "Proposer un verre juste après le boulot pour décompresser avant de rentrer ou de passer à autre chose.",
+    "exemple": "« Journée trop dense, on se fait un verre de sas avant de rentrer ? »",
+    "registre": "entre potes",
+    "date": "2026-08-17"
+  },
+  {
+    "expr": "Ça me fait une journée en pente",
+    "sens": "Cela donne l’impression que la journée devient lourde, molle ou difficile à remonter.",
+    "exemple": "« Le call de 17 h qui se rajoute, ça me fait une journée en pente. »",
+    "registre": "boulot",
+    "date": "2026-08-17"
+  },
+  {
+    "expr": "Ça a un vrai goût de reviens-y",
+    "sens": "Se dit de quelque chose de très plaisant, surtout un plat, un lieu ou une ambiance, qui donne envie d’y revenir.",
+    "exemple": "« Leur focaccia là, elle a un vrai goût de reviens-y. »",
+    "registre": "courant",
+    "date": "2026-08-17"
+  },
+  {
     "expr": "Je suis en fin de stock",
     "sens": "Je n’ai presque plus d’énergie, de patience ou de motivation pour continuer.",
     "exemple": "« Si on rajoute encore une visio à 18 h, je suis en fin de stock. »",
