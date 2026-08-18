@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Ça me fait pas bouger une oreille",
+    "sens": "Ça ne me motive pas du tout, ça me laisse complètement froid.",
+    "exemple": "« Le resto est à quarante minutes et faut réserver trois semaines avant. — Franchement, ça me fait pas bouger une oreille. »",
+    "registre": "courant",
+    "date": "2026-08-18"
+  },
+  {
+    "expr": "On se fait un verre sans roman",
+    "sens": "On va boire un verre simplement, sans grand plan ni complication.",
+    "exemple": "« Ce soir j’ai pas l’énergie pour un gros truc. On se fait un verre sans roman vers 19h ? »",
+    "registre": "entre potes",
+    "date": "2026-08-18"
+  },
+  {
+    "expr": "Je suis en retard sur ma journée",
+    "sens": "Je me sens débordé, comme si la journée allait plus vite que moi.",
+    "exemple": "« Si je réponds tard, m’en veux pas, je suis en retard sur ma journée depuis 9h. »",
+    "registre": "boulot",
+    "date": "2026-08-18"
+  },
+  {
+    "expr": "Ça a une bonne tête de plan fiable",
+    "sens": "Ça ressemble à une idée simple, sûre et agréable, sans mauvaise surprise.",
+    "exemple": "« Terrasse, deux-trois assiettes à partager, et on rentre pas trop tard ? Ça a une bonne tête de plan fiable. »",
+    "registre": "courant",
+    "date": "2026-08-18"
+  },
+  {
     "expr": "Je suis en bout de phrase",
     "sens": "Je n’ai plus l’énergie mentale pour parler, expliquer ou continuer la discussion longtemps.",
     "exemple": "« Si tu veux on en reparle demain, là je suis en bout de phrase. »",
