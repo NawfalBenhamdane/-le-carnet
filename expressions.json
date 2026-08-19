@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Je suis en reprise de cerveau",
+    "sens": "Je ne suis pas encore totalement opérationnel, je démarre lentement mentalement.",
+    "exemple": "« Si tu veux me parler budget maintenant, attends dix minutes, je suis en reprise de cerveau. »",
+    "registre": "boulot",
+    "date": "2026-08-19"
+  },
+  {
+    "expr": "On se fait un verre qui fait pas dérailler",
+    "sens": "On va boire un verre, mais sans finir trop tard ni partir dans une grosse soirée.",
+    "exemple": "« Ce soir j’ai encore ma matinée demain, mais on peut se faire un verre qui fait pas dérailler. »",
+    "registre": "courant",
+    "date": "2026-08-19"
+  },
+  {
+    "expr": "Ça me remet les idées à plat",
+    "sens": "Ça m’aide à me calmer, à clarifier ce que je pense ou ressens.",
+    "exemple": "« J’ai marché vingt minutes tout seul, ça m’a remis les idées à plat. »",
+    "registre": "courant",
+    "date": "2026-08-19"
+  },
+  {
+    "expr": "Ce plat, c’est une vraie reprise en main",
+    "sens": "C’est un plat réconfortant qui remet d’aplomb après une mauvaise journée ou un coup de fatigue.",
+    "exemple": "« Franchement, ses pâtes au four, c’est une vraie reprise en main après la semaine qu’on vient de se taper. »",
+    "registre": "entre potes",
+    "date": "2026-08-19"
+  },
+  {
     "expr": "Ça me fait pas bouger une oreille",
     "sens": "Ça ne me motive pas du tout, ça me laisse complètement froid.",
     "exemple": "« Le resto est à quarante minutes et faut réserver trois semaines avant. — Franchement, ça me fait pas bouger une oreille. »",
