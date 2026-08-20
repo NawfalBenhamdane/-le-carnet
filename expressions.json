@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Je suis en reste de week-end",
+    "sens": "Je ne suis pas encore vraiment reparti dans le rythme, je suis encore un peu mou ou dispersé.",
+    "exemple": "« Si j’ai l’air absent en visio, c’est normal, je suis en reste de week-end depuis ce matin. »",
+    "registre": "courant",
+    "date": "2026-08-20"
+  },
+  {
+    "expr": "On se fait un verre sans y passer la nuit ?",
+    "sens": "Proposer de boire un verre de manière simple, sans que la soirée s’éternise.",
+    "exemple": "« J’ai encore une grosse journée demain, mais on se fait un verre sans y passer la nuit ? »",
+    "registre": "entre potes",
+    "date": "2026-08-20"
+  },
+  {
+    "expr": "Ça me plie un peu la journée",
+    "sens": "Ça complique ou alourdit le reste de ma journée.",
+    "exemple": "« Si la réunion glisse encore d’une heure, ça me plie un peu la journée derrière. »",
+    "registre": "boulot",
+    "date": "2026-08-20"
+  },
+  {
+    "expr": "J’ai besoin d’un truc qui tienne au corps",
+    "sens": "J’ai envie de manger quelque chose de consistant, nourrissant, pas juste un snack léger.",
+    "exemple": "« Non mais là oublie la salade, j’ai besoin d’un truc qui tienne au corps. »",
+    "registre": "courant",
+    "date": "2026-08-20"
+  },
+  {
     "expr": "Je suis en reprise de cerveau",
     "sens": "Je ne suis pas encore totalement opérationnel, je démarre lentement mentalement.",
     "exemple": "« Si tu veux me parler budget maintenant, attends dix minutes, je suis en reprise de cerveau. »",
