@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Ça me met pas dedans",
+    "sens": "Ça ne me motive pas, ça ne me donne pas envie de m’impliquer ou d’y aller.",
+    "exemple": "« Le resto est peut-être bien, mais franchement la carte me met pas dedans. »",
+    "registre": "courant",
+    "date": "2026-08-21"
+  },
+  {
+    "expr": "On se fait un point flash",
+    "sens": "On prend quelques minutes pour se parler vite et clarifier un sujet.",
+    "exemple": "« T’as cinq minutes après le call ? On se fait un point flash et c’est plié. »",
+    "registre": "boulot",
+    "date": "2026-08-21"
+  },
+  {
+    "expr": "Je suis un peu en travers aujourd’hui",
+    "sens": "Je suis de mauvaise humeur, contrarié ou pas très bien disposé.",
+    "exemple": "« Si je réponds sec, m’en veux pas, je suis un peu en travers aujourd’hui. »",
+    "registre": "courant",
+    "date": "2026-08-21"
+  },
+  {
+    "expr": "Ça tient la route de loin",
+    "sens": "En apparence c’est convaincant, mais quand on regarde de près, c’est moins solide.",
+    "exemple": "« Son projet, ça tient la route de loin, mais dès que tu creuses, ça flotte un peu. »",
+    "registre": "boulot",
+    "date": "2026-08-21"
+  },
+  {
     "expr": "Je suis en reste de week-end",
     "sens": "Je ne suis pas encore vraiment reparti dans le rythme, je suis encore un peu mou ou dispersé.",
     "exemple": "« Si j’ai l’air absent en visio, c’est normal, je suis en reste de week-end depuis ce matin. »",
