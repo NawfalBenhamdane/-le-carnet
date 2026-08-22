@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Ça me met un peu en veille",
+    "sens": "Ça coupe l’élan, ça donne moins envie ou ça baisse l’énergie sur le moment.",
+    "exemple": "« Franchement, une réunion à 18h, ça me met un peu en veille. »",
+    "registre": "courant",
+    "date": "2026-08-22"
+  },
+  {
+    "expr": "On se fait un after clean ?",
+    "sens": "Proposer un verre ou un moment après le travail, mais simple, pas trop long ni trop chargé.",
+    "exemple": "« J’ai encore un train tôt demain, mais on se fait un after clean ? »",
+    "registre": "boulot",
+    "date": "2026-08-22"
+  },
+  {
+    "expr": "Je suis en bout d’élan",
+    "sens": "On n’a plus trop d’énergie ou de motivation pour continuer à fond.",
+    "exemple": "« Si vous sortez encore après, moi je suis en bout d’élan. »",
+    "registre": "entre potes",
+    "date": "2026-08-22"
+  },
+  {
+    "expr": "Ça a un vrai goût de reviens-moi",
+    "sens": "Se dit d’un plat ou d’une boisson qu’on a envie de reprendre tout de suite.",
+    "exemple": "« Tes pâtes là, elles ont un vrai goût de reviens-moi. »",
+    "registre": "courant",
+    "date": "2026-08-22"
+  },
+  {
     "expr": "Ça me met pas dedans",
     "sens": "Ça ne me motive pas, ça ne me donne pas envie de m’impliquer ou d’y aller.",
     "exemple": "« Le resto est peut-être bien, mais franchement la carte me met pas dedans. »",
