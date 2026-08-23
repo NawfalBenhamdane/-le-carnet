@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Ça me fait lever un vendredi",
+    "sens": "se dit d’un plan ou d’une idée vraiment motivante, au point de donner envie immédiatement",
+    "exemple": "« Un resto coréen puis un verre au canal ? — Franchement, ça me fait lever un vendredi. »",
+    "registre": "entre potes",
+    "date": "2026-08-23"
+  },
+  {
+    "expr": "Je suis en retard de moi",
+    "sens": "être mentalement ou émotionnellement à la traîne, pas encore vraiment opérationnel",
+    "exemple": "« Si je réponds bizarrement ce matin, m’en veux pas, je suis en retard de moi. »",
+    "registre": "courant",
+    "date": "2026-08-23"
+  },
+  {
+    "expr": "On se fait un point qui respire",
+    "sens": "proposer un échange bref, simple et sans lourdeur, souvent au travail",
+    "exemple": "« J’ai deux sujets à te montrer, on se fait un point qui respire à 14 h ? »",
+    "registre": "boulot",
+    "date": "2026-08-23"
+  },
+  {
+    "expr": "Ça a une tête de plat qui sauve",
+    "sens": "se dit d’un plat simple mais très tentant, parfait quand on est fatigué ou qu’on a besoin de réconfort",
+    "exemple": "« Purée-saucisse ce soir ? — Ah oui, ça a une tête de plat qui sauve. »",
+    "registre": "courant",
+    "date": "2026-08-23"
+  },
+  {
     "expr": "Ça me met un peu en veille",
     "sens": "Ça coupe l’élan, ça donne moins envie ou ça baisse l’énergie sur le moment.",
     "exemple": "« Franchement, une réunion à 18h, ça me met un peu en veille. »",
