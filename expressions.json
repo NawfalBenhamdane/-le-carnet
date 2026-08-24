@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Je suis un peu hors gabarit aujourd’hui",
+    "sens": "Je ne suis pas très ajusté à la journée, pas vraiment dans mon rythme habituel.",
+    "exemple": "« Si je réponds à côté en réunion, m’en veux pas, je suis un peu hors gabarit aujourd’hui. »",
+    "registre": "boulot",
+    "date": "2026-08-24"
+  },
+  {
+    "expr": "On se fait un verre sans finir en conférence de vie ?",
+    "sens": "Proposer de boire un verre simplement, sans partir dans une longue soirée ou de grandes discussions existentielles.",
+    "exemple": "« J’ai encore un peu d’énergie, on se fait un verre sans finir en conférence de vie ? »",
+    "registre": "entre potes",
+    "date": "2026-08-24"
+  },
+  {
+    "expr": "Ça me remet un peu du monde",
+    "sens": "Quelque chose redonne de l’élan, du moral ou l’envie de refaire surface socialement.",
+    "exemple": "« Franchement, ce café au soleil, ça me remet un peu du monde. »",
+    "registre": "courant",
+    "date": "2026-08-24"
+  },
+  {
+    "expr": "On peut se le faire en version pas tunnel",
+    "sens": "Proposer de traiter un sujet de manière simple et pas trop longue ni lourde.",
+    "exemple": "« Le sujet est important, mais on peut se le faire en version pas tunnel, j’ai un call juste après. »",
+    "registre": "boulot",
+    "date": "2026-08-24"
+  },
+  {
     "expr": "Ça me fait lever un vendredi",
     "sens": "se dit d’un plan ou d’une idée vraiment motivante, au point de donner envie immédiatement",
     "exemple": "« Un resto coréen puis un verre au canal ? — Franchement, ça me fait lever un vendredi. »",
