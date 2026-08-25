@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Je suis en reprise d’humain",
+    "sens": "Je remets doucement le cerveau et la sociabilité en route, souvent après une grosse fatigue, un lundi ou trop de sollicitations.",
+    "exemple": "« Si je réponds à côté ce matin, m’en veux pas, je suis en reprise d’humain. »",
+    "registre": "courant",
+    "date": "2026-08-25"
+  },
+  {
+    "expr": "On se fait un verre qui reste sage ?",
+    "sens": "Proposer un verre sans partir sur une grosse soirée ni finir tard.",
+    "exemple": "« J’ai envie de voir du monde, mais tranquille : on se fait un verre qui reste sage ? »",
+    "registre": "entre potes",
+    "date": "2026-08-25"
+  },
+  {
+    "expr": "Ça me sort un peu de la route",
+    "sens": "Ça perturbe mon organisation, mon rythme ou mon plan prévu.",
+    "exemple": "« Si on décale encore la visio à 18 h, ça me sort un peu de la route. »",
+    "registre": "boulot",
+    "date": "2026-08-25"
+  },
+  {
+    "expr": "J’ai besoin d’un plat qui pose les bases",
+    "sens": "J’ai faim et je veux quelque chose de consistant, simple et rassurant.",
+    "exemple": "« Non, pas une salade ce midi, j’ai besoin d’un plat qui pose les bases. »",
+    "registre": "courant",
+    "date": "2026-08-25"
+  },
+  {
     "expr": "Je suis un peu hors gabarit aujourd’hui",
     "sens": "Je ne suis pas très ajusté à la journée, pas vraiment dans mon rythme habituel.",
     "exemple": "« Si je réponds à côté en réunion, m’en veux pas, je suis un peu hors gabarit aujourd’hui. »",
