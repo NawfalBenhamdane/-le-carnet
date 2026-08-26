@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Je suis en reprise de présence",
+    "sens": "Je suis là physiquement, mais pas encore vraiment réveillé ou opérationnel socialement.",
+    "exemple": "« Désolé, je parle pas beaucoup ce midi, je suis en reprise de présence depuis ce matin. »",
+    "registre": "courant",
+    "date": "2026-08-26"
+  },
+  {
+    "expr": "On se fait un verre à hauteur d’énergie ?",
+    "sens": "On se voit pour boire un verre, mais sans faire une grosse soirée ni forcer le rythme.",
+    "exemple": "« J’ai envie de vous voir, mais je suis cuit. On se fait un verre à hauteur d’énergie ? »",
+    "registre": "entre potes",
+    "date": "2026-08-26"
+  },
+  {
+    "expr": "Ça me décroche du sujet",
+    "sens": "Ça me fait perdre le fil ou ça m’éloigne de ce qui est important.",
+    "exemple": "« Si on rajoute encore trois slides, ça me décroche du sujet, là. »",
+    "registre": "boulot",
+    "date": "2026-08-26"
+  },
+  {
+    "expr": "J’ai besoin d’un plat qui fasse tampon",
+    "sens": "J’ai besoin d’un plat rassasiant et réconfortant, souvent pour encaisser une grosse journée ou une soirée.",
+    "exemple": "« Non mais ce soir, pas de salade, j’ai besoin d’un plat qui fasse tampon. »",
+    "registre": "courant",
+    "date": "2026-08-26"
+  },
+  {
     "expr": "Je suis en reprise d’humain",
     "sens": "Je remets doucement le cerveau et la sociabilité en route, souvent après une grosse fatigue, un lundi ou trop de sollicitations.",
     "exemple": "« Si je réponds à côté ce matin, m’en veux pas, je suis en reprise d’humain. »",
