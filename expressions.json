@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Je suis en mode discret aujourd’hui",
+    "sens": "Je n’ai pas trop envie de parler, de voir du monde ou de me rendre très présent.",
+    "exemple": "« Si je réponds pas trop sur le groupe, c’est pas perso, je suis en mode discret aujourd’hui. »",
+    "registre": "courant",
+    "date": "2026-08-27"
+  },
+  {
+    "expr": "On se fait un verre qui reste civilisé ?",
+    "sens": "Proposer de boire un verre sans partir sur une grosse soirée ni finir très tard.",
+    "exemple": "« J’ai envie de sortir mais tranquille, on se fait un verre qui reste civilisé ? »",
+    "registre": "entre potes",
+    "date": "2026-08-27"
+  },
+  {
+    "expr": "Ça me plie un peu le cerveau",
+    "sens": "Quelque chose est compliqué, embrouille l’esprit ou fatigue mentalement.",
+    "exemple": "« Leur nouveau process avec trois outils différents, ça me plie un peu le cerveau. »",
+    "registre": "boulot",
+    "date": "2026-08-27"
+  },
+  {
+    "expr": "J’ai besoin d’un vrai truc qui cale",
+    "sens": "On veut un plat consistant, nourrissant, pas quelque chose de léger.",
+    "exemple": "« Non mais ce soir pas de salade, j’ai besoin d’un vrai truc qui cale. »",
+    "registre": "courant",
+    "date": "2026-08-27"
+  },
+  {
     "expr": "Je suis en reprise de présence",
     "sens": "Je suis là physiquement, mais pas encore vraiment réveillé ou opérationnel socialement.",
     "exemple": "« Désolé, je parle pas beaucoup ce midi, je suis en reprise de présence depuis ce matin. »",
