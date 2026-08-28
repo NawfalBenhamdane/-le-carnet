@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Je suis en dette de silence",
+    "sens": "On a trop vu de monde ou trop parlé, et on a besoin d’un moment calme.",
+    "exemple": "« Je viens quand même au dîner, mais je te préviens, je suis en dette de silence aujourd’hui. »",
+    "registre": "courant",
+    "date": "2026-08-28"
+  },
+  {
+    "expr": "On se fait un verre sans storytelling ?",
+    "sens": "Proposer un verre simple, sans grandes discussions lourdes ni récits interminables.",
+    "exemple": "« J’ai zéro énergie pour refaire le monde, on se fait un verre sans storytelling ? »",
+    "registre": "entre potes",
+    "date": "2026-08-28"
+  },
+  {
+    "expr": "Ça me fait un trou d’attention",
+    "sens": "Quelque chose fait décrocher mentalement ou perdre le fil sur le moment.",
+    "exemple": "« Au bout de dix slides pareilles, ça me fait un trou d’attention. »",
+    "registre": "boulot",
+    "date": "2026-08-28"
+  },
+  {
+    "expr": "J’ai besoin d’un plat qui recadre",
+    "sens": "On veut un vrai repas simple et solide pour se remettre d’aplomb.",
+    "exemple": "« Non mais là, pas de tapas au hasard, j’ai besoin d’un plat qui recadre. »",
+    "registre": "courant",
+    "date": "2026-08-28"
+  },
+  {
     "expr": "Je suis en mode discret aujourd’hui",
     "sens": "Je n’ai pas trop envie de parler, de voir du monde ou de me rendre très présent.",
     "exemple": "« Si je réponds pas trop sur le groupe, c’est pas perso, je suis en mode discret aujourd’hui. »",
