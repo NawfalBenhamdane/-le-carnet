@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Je suis en reprise de motivation",
+    "sens": "je ne suis pas encore vraiment lancé, il me faut un peu de temps pour m’y mettre",
+    "exemple": "« Si tu me demandes ça maintenant, je vais répondre n’importe comment, je suis en reprise de motivation depuis ce matin. »",
+    "registre": "boulot",
+    "date": "2026-08-29"
+  },
+  {
+    "expr": "On se fait un verre en format court ?",
+    "sens": "proposer de boire un verre sans que la soirée s’éternise",
+    "exemple": "« J’ai envie de vous voir, mais demain je bosse tôt, on se fait un verre en format court ? »",
+    "registre": "courant",
+    "date": "2026-08-29"
+  },
+  {
+    "expr": "Ça me retombe un peu dessus",
+    "sens": "quelque chose revient peser mentalement ou émotionnellement après coup",
+    "exemple": "« Sur le moment j’ai tenu, mais là, la semaine me retombe un peu dessus. »",
+    "registre": "courant",
+    "date": "2026-08-29"
+  },
+  {
+    "expr": "J’ai besoin d’un truc un peu sérieux à manger",
+    "sens": "avoir envie d’un vrai repas consistant, pas juste d’un snack ou d’un plat léger",
+    "exemple": "« Non mais les chips c’est mort, j’ai besoin d’un truc un peu sérieux à manger. »",
+    "registre": "entre potes",
+    "date": "2026-08-29"
+  },
+  {
     "expr": "Je suis en dette de silence",
     "sens": "On a trop vu de monde ou trop parlé, et on a besoin d’un moment calme.",
     "exemple": "« Je viens quand même au dîner, mais je te préviens, je suis en dette de silence aujourd’hui. »",
