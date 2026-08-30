@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Ça me remet dans le bon sens",
+    "sens": "Se dit de quelque chose qui aide à se recentrer, à retrouver un meilleur état ou une meilleure énergie.",
+    "exemple": "« Franchement, marcher vingt minutes avant de rentrer, ça me remet dans le bon sens. »",
+    "registre": "courant",
+    "date": "2026-08-30"
+  },
+  {
+    "expr": "On se fait un bout de terrasse et on rentre",
+    "sens": "Proposer une sortie courte et simple, juste pour profiter un peu sans partir sur une longue soirée.",
+    "exemple": "« J’ai pas l’énergie pour un gros truc, mais on se fait un bout de terrasse et on rentre ? »",
+    "registre": "entre potes",
+    "date": "2026-08-30"
+  },
+  {
+    "expr": "Là, je suis en fin de patience polie",
+    "sens": "Dire qu’on commence à perdre son calme ou sa tolérance, tout en restant encore correct.",
+    "exemple": "« Au troisième appel pour le même sujet, j’étais en fin de patience polie. »",
+    "registre": "boulot",
+    "date": "2026-08-30"
+  },
+  {
+    "expr": "Ce plat, il fait redescendre la journée",
+    "sens": "Parler d’un repas réconfortant qui aide à se détendre après une journée chargée ou stressante.",
+    "exemple": "« Un gratin comme ça, ça fait redescendre la journée direct. »",
+    "registre": "courant",
+    "date": "2026-08-30"
+  },
+  {
     "expr": "Je suis en reprise de motivation",
     "sens": "je ne suis pas encore vraiment lancé, il me faut un peu de temps pour m’y mettre",
     "exemple": "« Si tu me demandes ça maintenant, je vais répondre n’importe comment, je suis en reprise de motivation depuis ce matin. »",
