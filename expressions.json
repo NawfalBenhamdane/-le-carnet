@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Ça me met loin de moi",
+    "sens": "dit qu’un truc te perturbe ou te fatigue au point de te rendre absent, pas vraiment aligné avec toi-même",
+    "exemple": "« La semaine de conf calls à la chaîne, ça me met loin de moi, j’ai besoin de couper ce soir. »",
+    "registre": "courant",
+    "date": "2026-08-31"
+  },
+  {
+    "expr": "On se fait un vrai faux dernier ?",
+    "sens": "proposer le verre qu’on dit être le dernier, tout en sachant qu’on va peut-être prolonger un peu",
+    "exemple": "« On bouge ? — Attends, on se fait un vrai faux dernier et après on file. »",
+    "registre": "entre potes",
+    "date": "2026-08-31"
+  },
+  {
+    "expr": "J’ai le cerveau en onglets ouverts",
+    "sens": "être dispersé, avec trop de choses en tête en même temps, donc moins concentré",
+    "exemple": "« Si je réponds à côté ce matin, c’est normal, j’ai le cerveau en onglets ouverts. »",
+    "registre": "boulot",
+    "date": "2026-08-31"
+  },
+  {
+    "expr": "Ça a un goût de dimanche soir",
+    "sens": "se dit d’une ambiance un peu molle, mélancolique ou pas très entraînante",
+    "exemple": "« Ce bar est sympa mais à 21 h ça a déjà un goût de dimanche soir, non ? »",
+    "registre": "courant",
+    "date": "2026-08-31"
+  },
+  {
     "expr": "Ça me remet dans le bon sens",
     "sens": "Se dit de quelque chose qui aide à se recentrer, à retrouver un meilleur état ou une meilleure énergie.",
     "exemple": "« Franchement, marcher vingt minutes avant de rentrer, ça me remet dans le bon sens. »",
