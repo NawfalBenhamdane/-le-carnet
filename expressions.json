@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Je suis en lendemain sans soirée",
+    "sens": "Se dit quand on est épuisé, vaseux ou ralenti sans avoir vraiment de raison évidente.",
+    "exemple": "« Tu viens déjeuner ? — Ouais, mais mollo, je suis en lendemain sans soirée aujourd’hui. »",
+    "registre": "courant",
+    "date": "2026-09-01"
+  },
+  {
+    "expr": "On se fait un verre en pointillé ?",
+    "sens": "Proposer un verre rapide, pas forcément long ni très engagé, où chacun peut partir assez tôt.",
+    "exemple": "« J’ai encore deux mails à finir après, mais on se fait un verre en pointillé vers 19 h ? »",
+    "registre": "entre potes",
+    "date": "2026-09-01"
+  },
+  {
+    "expr": "Là, mon cerveau fait des micro-coupures",
+    "sens": "Dire qu’on n’arrive plus à rester concentré ou qu’on décroche par fatigue.",
+    "exemple": "« Si tu me reparles budget dans dix minutes, mon cerveau fait des micro-coupures depuis ce matin. »",
+    "registre": "boulot",
+    "date": "2026-09-01"
+  },
+  {
+    "expr": "Ce plat, c’est une vraie remise à niveau",
+    "sens": "Parler d’un repas simple et efficace qui fait du bien et remet d’aplomb.",
+    "exemple": "« Franchement, leur purée-saucisse, c’est une vraie remise à niveau après la journée qu’on vient de se taper. »",
+    "registre": "courant",
+    "date": "2026-09-01"
+  },
+  {
     "expr": "Ça me met loin de moi",
     "sens": "dit qu’un truc te perturbe ou te fatigue au point de te rendre absent, pas vraiment aligné avec toi-même",
     "exemple": "« La semaine de conf calls à la chaîne, ça me met loin de moi, j’ai besoin de couper ce soir. »",
