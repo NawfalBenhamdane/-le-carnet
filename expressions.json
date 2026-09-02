@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Je suis en reprise de personne",
+    "sens": "Je suis encore un peu à l’ouest socialement ou mentalement, pas totalement opérationnel.",
+    "exemple": "« Si je réponds à côté ce matin, m’en veux pas, je suis en reprise de personne. »",
+    "registre": "courant",
+    "date": "2026-09-02"
+  },
+  {
+    "expr": "On se fait un verre sans folklore ?",
+    "sens": "On va boire un verre simplement, sans finir dans une grosse soirée ni en faire trop.",
+    "exemple": "« J’ai envie de voir du monde mais tranquille, on se fait un verre sans folklore ? »",
+    "registre": "entre potes",
+    "date": "2026-09-02"
+  },
+  {
+    "expr": "Là, je suis en digestion de journée",
+    "sens": "J’essaie de redescendre après une journée chargée, de récupérer mentalement.",
+    "exemple": "« Attends dix minutes avant de m’appeler, je suis en digestion de journée. »",
+    "registre": "courant",
+    "date": "2026-09-02"
+  },
+  {
+    "expr": "On peut se faire une version respirable ?",
+    "sens": "Peut-on simplifier quelque chose pour que ce soit plus léger, plus clair ou plus gérable.",
+    "exemple": "« Le doc fait douze slides de trop, on peut se faire une version respirable ? »",
+    "registre": "boulot",
+    "date": "2026-09-02"
+  },
+  {
     "expr": "Je suis en lendemain sans soirée",
     "sens": "Se dit quand on est épuisé, vaseux ou ralenti sans avoir vraiment de raison évidente.",
     "exemple": "« Tu viens déjeuner ? — Ouais, mais mollo, je suis en lendemain sans soirée aujourd’hui. »",
