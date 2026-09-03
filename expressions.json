@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Je suis en fond de social",
+    "sens": "Je n’ai presque plus d’énergie pour parler, voir du monde ou faire des interactions.",
+    "exemple": "« Je passe une heure max et je rentre, je suis en fond de social ce soir. »",
+    "registre": "entre potes",
+    "date": "2026-09-03"
+  },
+  {
+    "expr": "On se fait un verre en mode escale",
+    "sens": "On boit un verre rapide, sans partir sur une longue soirée.",
+    "exemple": "« J’ai encore du taf après, mais on peut se faire un verre en mode escale vers 19 h. »",
+    "registre": "courant",
+    "date": "2026-09-03"
+  },
+  {
+    "expr": "Là, je prends l’info en différé",
+    "sens": "Je comprends lentement parce que je suis fatigué, distrait ou pas très réveillé.",
+    "exemple": "« Re-dis-moi le planning, là je prends l’info en différé depuis ce matin. »",
+    "registre": "boulot",
+    "date": "2026-09-03"
+  },
+  {
+    "expr": "Ce plat, c’est du recentrage direct",
+    "sens": "Ce plat fait immédiatement du bien, rassasie et remet d’aplomb.",
+    "exemple": "« Franchement, leur purée-saucisse, c’est du recentrage direct après une journée comme ça. »",
+    "registre": "courant",
+    "date": "2026-09-03"
+  },
+  {
     "expr": "Je suis en reprise de personne",
     "sens": "Je suis encore un peu à l’ouest socialement ou mentalement, pas totalement opérationnel.",
     "exemple": "« Si je réponds à côté ce matin, m’en veux pas, je suis en reprise de personne. »",
