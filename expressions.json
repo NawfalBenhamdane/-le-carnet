@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Je suis en fin de journée plus tôt que prévu",
+    "sens": "Je n’ai plus beaucoup d’énergie ou de patience alors que la journée n’est pas encore finie.",
+    "exemple": "« Si on rajoute encore une réunion à 17 h, je suis en fin de journée plus tôt que prévu, là. »",
+    "registre": "boulot",
+    "date": "2026-09-04"
+  },
+  {
+    "expr": "On se fait un verre qui n’appelle pas un deuxième ?",
+    "sens": "Proposer un seul verre, sans partir sur une longue soirée.",
+    "exemple": "« J’ai envie de sortir, mais tranquille : on se fait un verre qui n’appelle pas un deuxième ? »",
+    "registre": "courant",
+    "date": "2026-09-04"
+  },
+  {
+    "expr": "Ça m’a mangé tout mon dimanche",
+    "sens": "Quelque chose a pris toute l’énergie mentale ou le temps de repos de la journée.",
+    "exemple": "« Le combo lessives, courses, papiers… ça m’a mangé tout mon dimanche. »",
+    "registre": "courant",
+    "date": "2026-09-04"
+  },
+  {
+    "expr": "Ce truc, c’est très mardi soir",
+    "sens": "Se dit d’un plan, d’un repas ou d’une ambiance simple, pratique, sans grand enjeu mais agréable.",
+    "exemple": "« Pâtes, un verre de blanc et on rentre tôt ? Franchement, c’est très mardi soir, je prends. »",
+    "registre": "entre potes",
+    "date": "2026-09-04"
+  },
+  {
     "expr": "Je suis en fond de social",
     "sens": "Je n’ai presque plus d’énergie pour parler, voir du monde ou faire des interactions.",
     "exemple": "« Je passe une heure max et je rentre, je suis en fond de social ce soir. »",
