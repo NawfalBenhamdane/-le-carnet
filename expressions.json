@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Je suis en fin de cerveau",
+    "sens": "je n’ai plus assez d’énergie mentale pour réfléchir correctement ou suivre longtemps",
+    "exemple": "« Si tu me reparles du budget maintenant, je vais rien capter, je suis en fin de cerveau. »",
+    "registre": "courant",
+    "date": "2026-09-05"
+  },
+  {
+    "expr": "On se fait un verre de décompression",
+    "sens": "on va boire un verre juste pour relâcher la pression, sans en faire toute une soirée",
+    "exemple": "« J’ai eu une journée absurde, on se fait un verre de décompression en sortant ? »",
+    "registre": "entre potes",
+    "date": "2026-09-05"
+  },
+  {
+    "expr": "Ça me mange un peu la tête",
+    "sens": "ça prend trop de place dans l’esprit, ça fatigue ou ça préoccupe",
+    "exemple": "« Depuis ce mail de ce matin, ça me mange un peu la tête, j’avoue. »",
+    "registre": "courant",
+    "date": "2026-09-05"
+  },
+  {
+    "expr": "On peut se faire une version terrain ?",
+    "sens": "on peut simplifier et parler de façon concrète, pratique, sans théorie inutile",
+    "exemple": "« Le principe est bon, mais on peut se faire une version terrain pour voir ce qu’on lance vraiment ? »",
+    "registre": "boulot",
+    "date": "2026-09-05"
+  },
+  {
     "expr": "Je suis en fin de journée plus tôt que prévu",
     "sens": "Je n’ai plus beaucoup d’énergie ou de patience alors que la journée n’est pas encore finie.",
     "exemple": "« Si on rajoute encore une réunion à 17 h, je suis en fin de journée plus tôt que prévu, là. »",
