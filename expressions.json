@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Je suis en fin de version de moi-même",
+    "sens": "Je n’ai plus beaucoup d’énergie ni de patience, je fonctionne au minimum.",
+    "exemple": "« Tu viens au resto après ? — Franchement, je suis en fin de version de moi-même, je rentre direct. »",
+    "registre": "courant",
+    "date": "2026-09-06"
+  },
+  {
+    "expr": "On se fait un apéro sans prolongations ?",
+    "sens": "On se voit pour boire un verre, mais sans partir sur une longue soirée.",
+    "exemple": "« Je suis chaud pour vous voir, mais soft : on se fait un apéro sans prolongations ? »",
+    "registre": "entre potes",
+    "date": "2026-09-06"
+  },
+  {
+    "expr": "Tu peux me le remettre en ligne droite ?",
+    "sens": "Peux-tu m’expliquer quelque chose simplement, clairement, sans détour.",
+    "exemple": "« J’ai décroché au milieu du sujet, tu peux me le remettre en ligne droite ? »",
+    "registre": "boulot",
+    "date": "2026-09-06"
+  },
+  {
+    "expr": "Ça me coupe l’élan direct",
+    "sens": "Ça me démotive immédiatement ou ça casse mon envie sur le moment.",
+    "exemple": "« Le plan à l’autre bout de Paris un jeudi, ça me coupe l’élan direct. »",
+    "registre": "courant",
+    "date": "2026-09-06"
+  },
+  {
     "expr": "Je suis en fin de cerveau",
     "sens": "je n’ai plus assez d’énergie mentale pour réfléchir correctement ou suivre longtemps",
     "exemple": "« Si tu me reparles du budget maintenant, je vais rien capter, je suis en fin de cerveau. »",
