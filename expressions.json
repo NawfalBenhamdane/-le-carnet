@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Je suis en bout de RAM",
+    "sens": "Je n’ai plus beaucoup d’énergie mentale, je réfléchis au ralenti.",
+    "exemple": "« Si tu me relances sur ce dossier maintenant, je vais répondre n’importe quoi, je suis en bout de RAM. »",
+    "registre": "boulot",
+    "date": "2026-09-07"
+  },
+  {
+    "expr": "On se fait un verre d’appoint ?",
+    "sens": "On prend juste un verre rapide, sans partir sur une longue soirée.",
+    "exemple": "« J’ai encore une heure avant de rentrer, on se fait un verre d’appoint ? »",
+    "registre": "courant",
+    "date": "2026-09-07"
+  },
+  {
+    "expr": "Ça me sort de la soirée",
+    "sens": "Ça casse mon enthousiasme ou mon envie de participer au moment.",
+    "exemple": "« Franchement, parler taf à 23 heures, ça me sort de la soirée. »",
+    "registre": "entre potes",
+    "date": "2026-09-07"
+  },
+  {
+    "expr": "On peut se le faire en version audible ?",
+    "sens": "On peut expliquer quelque chose plus clairement et plus simplement.",
+    "exemple": "« Ton message est super technique, on peut se le faire en version audible pour l’équipe ? »",
+    "registre": "boulot",
+    "date": "2026-09-07"
+  },
+  {
     "expr": "Je suis en fin de version de moi-même",
     "sens": "Je n’ai plus beaucoup d’énergie ni de patience, je fonctionne au minimum.",
     "exemple": "« Tu viens au resto après ? — Franchement, je suis en fin de version de moi-même, je rentre direct. »",
