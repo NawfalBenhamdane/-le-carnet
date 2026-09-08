@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Je suis en mode survie polie",
+    "sens": "Je tiens encore socialement ou au travail, mais avec très peu d’énergie et juste ce qu’il faut pour rester correct.",
+    "exemple": "« Si je souris peu en visio, c’est normal, je suis en mode survie polie depuis 9h. »",
+    "registre": "boulot",
+    "date": "2026-09-08"
+  },
+  {
+    "expr": "On se fait un dîner qui remet de l’ordre",
+    "sens": "Proposition d’aller manger quelque chose de simple, bon et réconfortant pour se sentir mieux.",
+    "exemple": "« Franchement, flemme de chercher un spot hype, on se fait un dîner qui remet de l’ordre ? »",
+    "registre": "courant",
+    "date": "2026-09-08"
+  },
+  {
+    "expr": "Ça me fait décrocher de la pièce",
+    "sens": "Ça me sort complètement de l’ambiance ou de la conversation, au point de ne plus être dedans.",
+    "exemple": "« Quand il commence à parler budget en plein anniversaire, ça me fait décrocher de la pièce. »",
+    "registre": "entre potes",
+    "date": "2026-09-08"
+  },
+  {
+    "expr": "On peut se faire une version qui atterrit",
+    "sens": "Demande de reformuler quelque chose de façon plus concrète, claire et compréhensible.",
+    "exemple": "« Ton idée est bien, mais pour le client on peut se faire une version qui atterrit ? »",
+    "registre": "boulot",
+    "date": "2026-09-08"
+  },
+  {
     "expr": "Je suis en bout de RAM",
     "sens": "Je n’ai plus beaucoup d’énergie mentale, je réfléchis au ralenti.",
     "exemple": "« Si tu me relances sur ce dossier maintenant, je vais répondre n’importe quoi, je suis en bout de RAM. »",
