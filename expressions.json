@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Ça me finit un peu",
+    "sens": "Ça m’épuise moralement ou ça m’achève un peu sur le moment.",
+    "exemple": "« Le troisième changement de planning aujourd’hui, ça me finit un peu, je t’avoue. »",
+    "registre": "courant",
+    "date": "2026-09-09"
+  },
+  {
+    "expr": "On se fait un verre en vitesse propre ?",
+    "sens": "Proposer un verre rapide, simple, sans que ça s’éternise.",
+    "exemple": "« Je peux passer une demi-heure après le taf, on se fait un verre en vitesse propre ? »",
+    "registre": "entre potes",
+    "date": "2026-09-09"
+  },
+  {
+    "expr": "Tu peux me faire la version action ?",
+    "sens": "Demander une explication concrète, orientée sur ce qu’il faut faire.",
+    "exemple": "« J’ai compris l’idée générale, mais tu peux me faire la version action pour cet après-midi ? »",
+    "registre": "boulot",
+    "date": "2026-09-09"
+  },
+  {
+    "expr": "Je suis pas sur ma meilleure édition",
+    "sens": "Dire avec humour qu’on n’est pas en grande forme ou pas très sociable aujourd’hui.",
+    "exemple": "« Si je suis un peu silencieux ce soir, c’est normal, je suis pas sur ma meilleure édition. »",
+    "registre": "courant",
+    "date": "2026-09-09"
+  },
+  {
     "expr": "Je suis en mode survie polie",
     "sens": "Je tiens encore socialement ou au travail, mais avec très peu d’énergie et juste ce qu’il faut pour rester correct.",
     "exemple": "« Si je souris peu en visio, c’est normal, je suis en mode survie polie depuis 9h. »",
