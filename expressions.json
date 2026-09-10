@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Ça m’éteint direct",
+    "sens": "dit qu’un truc coupe net l’envie, l’énergie ou l’enthousiasme.",
+    "exemple": "« Aller jusqu’à l’autre bout de Paris pour une soirée où on connaît personne ? Franchement, ça m’éteint direct. »",
+    "registre": "courant",
+    "date": "2026-09-10"
+  },
+  {
+    "expr": "On se fait un afterwork en point de chute ?",
+    "sens": "propose un verre simple après le boulot, juste pour se poser un moment sans en faire trop.",
+    "exemple": "« J’ai zéro énergie pour un gros truc, mais on se fait un afterwork en point de chute vers 19 h ? »",
+    "registre": "boulot",
+    "date": "2026-09-10"
+  },
+  {
+    "expr": "Je suis en version basse conso",
+    "sens": "dit qu’on fonctionne au minimum, avec peu d’énergie ou peu d’envie de socialiser.",
+    "exemple": "« Ce soir je viens, mais je te préviens, je suis en version basse conso. »",
+    "registre": "entre potes",
+    "date": "2026-09-10"
+  },
+  {
+    "expr": "Tu peux me faire le topo sans la forêt ?",
+    "sens": "demande une explication claire, sans détails inutiles ni détours.",
+    "exemple": "« J’ai trois minutes avant le call, tu peux me faire le topo sans la forêt ? »",
+    "registre": "boulot",
+    "date": "2026-09-10"
+  },
+  {
     "expr": "Ça me finit un peu",
     "sens": "Ça m’épuise moralement ou ça m’achève un peu sur le moment.",
     "exemple": "« Le troisième changement de planning aujourd’hui, ça me finit un peu, je t’avoue. »",
