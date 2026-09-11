@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Ça me plombe la fin de journée",
+    "sens": "Ça me casse l’énergie ou le moral, surtout en fin d’après-midi ou après le boulot.",
+    "exemple": "« Franchement, cette réunion à 18 h, ça me plombe la fin de journée. »",
+    "registre": "courant",
+    "date": "2026-09-11"
+  },
+  {
+    "expr": "On se fait un vrai dîner et on plie tôt ?",
+    "sens": "Proposer de sortir manger sans faire durer la soirée trop tard.",
+    "exemple": "« J’ai envie de vous voir, mais je suis cuit : on se fait un vrai dîner et on plie tôt ? »",
+    "registre": "entre potes",
+    "date": "2026-09-11"
+  },
+  {
+    "expr": "Tu me le refais en concret ?",
+    "sens": "Demander une explication plus pratique, plus claire, avec du factuel.",
+    "exemple": "« Le concept est là, mais tu me le refais en concret ? Qu’est-ce qu’on change dès lundi ? »",
+    "registre": "boulot",
+    "date": "2026-09-11"
+  },
+  {
+    "expr": "Je suis un peu en bout d’interactions",
+    "sens": "Dire qu’on n’a plus beaucoup d’énergie sociale pour parler ou voir du monde.",
+    "exemple": "« Si je réponds à moitié ce soir, c’est pas toi, je suis un peu en bout d’interactions. »",
+    "registre": "courant",
+    "date": "2026-09-11"
+  },
+  {
     "expr": "Ça m’éteint direct",
     "sens": "dit qu’un truc coupe net l’envie, l’énergie ou l’enthousiasme.",
     "exemple": "« Aller jusqu’à l’autre bout de Paris pour une soirée où on connaît personne ? Franchement, ça m’éteint direct. »",
