@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Je suis en bout de mail",
+    "sens": "Je n’ai plus l’énergie mentale pour gérer encore des messages ou des échanges pro.",
+    "exemple": "« Si c’est pas urgent, on voit ça demain ? Là je suis en bout de mail. »",
+    "registre": "boulot",
+    "date": "2026-09-12"
+  },
+  {
+    "expr": "On se fait un verre de redescente ?",
+    "sens": "Proposer un verre tranquille pour relâcher après une grosse journée ou une soirée intense.",
+    "exemple": "« J’ai pas envie de rentrer direct, on se fait un verre de redescente ? »",
+    "registre": "courant",
+    "date": "2026-09-12"
+  },
+  {
+    "expr": "Ça me casse la mise en route",
+    "sens": "Quelque chose coupe l’élan au moment où on commençait enfin à se motiver ou à avancer.",
+    "exemple": "« Le call à 18 h là, ça me casse la mise en route pour ma soirée. »",
+    "registre": "courant",
+    "date": "2026-09-12"
+  },
+  {
+    "expr": "J’ai besoin d’un plat qui fasse la soirée",
+    "sens": "J’ai besoin d’un vrai plat consistant, satisfaisant, qui remplace bien un repas léger ou raté.",
+    "exemple": "« Non mais les chips c’est mort, j’ai besoin d’un plat qui fasse la soirée. »",
+    "registre": "entre potes",
+    "date": "2026-09-12"
+  },
+  {
     "expr": "Ça me plombe la fin de journée",
     "sens": "Ça me casse l’énergie ou le moral, surtout en fin d’après-midi ou après le boulot.",
     "exemple": "« Franchement, cette réunion à 18 h, ça me plombe la fin de journée. »",
