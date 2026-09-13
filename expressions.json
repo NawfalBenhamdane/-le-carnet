@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Je suis en capacité limitée aujourd’hui",
+    "sens": "Je n’ai pas beaucoup d’énergie mentale ou de disponibilité, donc je fais le minimum.",
+    "exemple": "« Si tu peux me mettre les trois points clés direct, je suis en capacité limitée aujourd’hui. »",
+    "registre": "boulot",
+    "date": "2026-09-13"
+  },
+  {
+    "expr": "On se fait un dîner de recharge ?",
+    "sens": "Proposer un repas simple et réconfortant pour récupérer après une grosse journée ou semaine.",
+    "exemple": "« Franchement, pas de plan compliqué ce soir, on se fait un dîner de recharge ? »",
+    "registre": "courant",
+    "date": "2026-09-13"
+  },
+  {
+    "expr": "Ça me met en dette pour rien",
+    "sens": "Ça me demande de l’énergie, du temps ou un effort inutile par rapport à ce que ça rapporte.",
+    "exemple": "« Traverser tout Paris pour quarante minutes en terrasse, ça me met en dette pour rien. »",
+    "registre": "entre potes",
+    "date": "2026-09-13"
+  },
+  {
+    "expr": "Tu me le fais en version livrable ?",
+    "sens": "Demander une explication concrète, exploitable tout de suite, sans détour ni théorie.",
+    "exemple": "« L’idée est bien, mais tu me le fais en version livrable ? Qu’est-ce qu’on envoie, à qui, et quand ? »",
+    "registre": "boulot",
+    "date": "2026-09-13"
+  },
+  {
     "expr": "Je suis en bout de mail",
     "sens": "Je n’ai plus l’énergie mentale pour gérer encore des messages ou des échanges pro.",
     "exemple": "« Si c’est pas urgent, on voit ça demain ? Là je suis en bout de mail. »",
