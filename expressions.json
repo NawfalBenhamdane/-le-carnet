@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Ça me remet pas dans le match",
+    "sens": "Se dit d’un truc qui ne redonne ni énergie ni motivation, ou qui n’aide pas à se remettre dedans.",
+    "exemple": "« J’ai pris un café, mais franchement ça me remet pas dans le match, je suis toujours à moitié absent. »",
+    "registre": "courant",
+    "date": "2026-09-14"
+  },
+  {
+    "expr": "On se fait un bout de soirée propre",
+    "sens": "Proposer une sortie sympa mais raisonnable, sans finir trop tard ni partir dans tous les sens.",
+    "exemple": "« On se fait un bout de soirée propre après le taf ? Une terrasse, deux verres et chacun rentre. »",
+    "registre": "entre potes",
+    "date": "2026-09-14"
+  },
+  {
+    "expr": "Tu peux me sortir la version qui décide ?",
+    "sens": "Demander une explication claire, orientée décision, sans détails inutiles.",
+    "exemple": "« J’ai vu le doc, mais tu peux me sortir la version qui décide ? Qu’est-ce qu’on valide aujourd’hui ? »",
+    "registre": "boulot",
+    "date": "2026-09-14"
+  },
+  {
+    "expr": "Je suis un peu en bord de moi",
+    "sens": "Être fatigué, irritable ou émotionnellement fragile, avec l’impression de ne pas être complètement stable.",
+    "exemple": "« Si je réponds à côté aujourd’hui, c’est normal, je suis un peu en bord de moi. »",
+    "registre": "courant",
+    "date": "2026-09-14"
+  },
+  {
     "expr": "Je suis en capacité limitée aujourd’hui",
     "sens": "Je n’ai pas beaucoup d’énergie mentale ou de disponibilité, donc je fais le minimum.",
     "exemple": "« Si tu peux me mettre les trois points clés direct, je suis en capacité limitée aujourd’hui. »",
