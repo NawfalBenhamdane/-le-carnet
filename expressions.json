@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Ça me met un mur",
+    "sens": "Dit qu’un truc bloque net l’envie, l’énergie ou la motivation.",
+    "exemple": "« Franchement, la réunion à 18 h un vendredi, ça me met un mur. »",
+    "registre": "courant",
+    "date": "2026-09-15"
+  },
+  {
+    "expr": "On se fait un vrai break humain ?",
+    "sens": "Propose de se voir ou de parler pour de bon, sans rester dans les échanges rapides ou purement pratiques.",
+    "exemple": "« On arrête les vocaux dans tous les sens et on se fait un vrai break humain ce soir ? »",
+    "registre": "entre potes",
+    "date": "2026-09-15"
+  },
+  {
+    "expr": "Tu me le poses en deux lignes ?",
+    "sens": "Demande de résumer très simplement et rapidement une idée ou une situation.",
+    "exemple": "« J’ai trois sujets qui tombent en même temps, tu me le poses en deux lignes ? »",
+    "registre": "boulot",
+    "date": "2026-09-15"
+  },
+  {
+    "expr": "Je suis en retard d’appétit",
+    "sens": "Dit qu’on a faim mais que le corps ou la tête suivent un peu en décalé, souvent après une grosse journée.",
+    "exemple": "« Je sais que j’ai pas mangé depuis midi, mais là je suis en retard d’appétit. »",
+    "registre": "courant",
+    "date": "2026-09-15"
+  },
+  {
     "expr": "Ça me remet pas dans le match",
     "sens": "Se dit d’un truc qui ne redonne ni énergie ni motivation, ou qui n’aide pas à se remettre dedans.",
     "exemple": "« J’ai pris un café, mais franchement ça me remet pas dans le match, je suis toujours à moitié absent. »",
