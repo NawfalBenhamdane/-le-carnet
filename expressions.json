@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Ça me fait sortir du décor",
+    "sens": "Se dit de quelque chose qui casse l’ambiance ou qui te met soudain mal à l’aise.",
+    "exemple": "« Franchement, sa remarque devant tout le monde, ça m’a fait sortir du décor direct. »",
+    "registre": "courant",
+    "date": "2026-09-16"
+  },
+  {
+    "expr": "On se fait un verre en sas de sortie ?",
+    "sens": "Proposer un verre court pour décompresser après le travail avant de rentrer.",
+    "exemple": "« J’ai la journée dans les épaules, on se fait un verre en sas de sortie ou tu files direct ? »",
+    "registre": "boulot",
+    "date": "2026-09-16"
+  },
+  {
+    "expr": "Je suis en fin de tolérance aujourd’hui",
+    "sens": "Dire qu’on n’a plus beaucoup de patience ou d’énergie pour gérer les gens ou les imprévus.",
+    "exemple": "« Si le train saute encore, je te préviens, je suis en fin de tolérance aujourd’hui. »",
+    "registre": "courant",
+    "date": "2026-09-16"
+  },
+  {
+    "expr": "Ce plat, il remet de l’intérieur",
+    "sens": "Parler d’un plat réconfortant, nourrissant, qui fait vraiment du bien.",
+    "exemple": "« Prends le gratin, je te jure, ce plat il remet de l’intérieur. »",
+    "registre": "entre potes",
+    "date": "2026-09-16"
+  },
+  {
     "expr": "Ça me met un mur",
     "sens": "Dit qu’un truc bloque net l’envie, l’énergie ou la motivation.",
     "exemple": "« Franchement, la réunion à 18 h un vendredi, ça me met un mur. »",
