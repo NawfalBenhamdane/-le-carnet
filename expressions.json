@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Ça me vide un peu la pièce",
+    "sens": "Ça casse mon envie ou mon énergie d’un coup, ça refroidit l’ambiance pour moi.",
+    "exemple": "« Franchement, son message à 19h pour reparler boulot, ça me vide un peu la pièce. »",
+    "registre": "courant",
+    "date": "2026-09-17"
+  },
+  {
+    "expr": "On se fait un bout de comptoir et on file ?",
+    "sens": "Proposer un verre rapide, simple, sans s’installer pour toute la soirée.",
+    "exemple": "« J’ai pas l’énergie pour un gros after, mais on se fait un bout de comptoir et on file ? »",
+    "registre": "entre potes",
+    "date": "2026-09-17"
+  },
+  {
+    "expr": "Tu peux me le sortir en version exploitable ?",
+    "sens": "Demander une explication claire, directement utile et facile à utiliser.",
+    "exemple": "« Le deck est intéressant, mais pour le comité tu peux me le sortir en version exploitable ? »",
+    "registre": "boulot",
+    "date": "2026-09-17"
+  },
+  {
+    "expr": "Je suis un peu en retard d’humanité aujourd’hui",
+    "sens": "Dire qu’on est fatigué socialement, pas très disponible pour les échanges ou l’enthousiasme.",
+    "exemple": "« Si je réponds à moitié, m’en veux pas, je suis un peu en retard d’humanité aujourd’hui. »",
+    "registre": "courant",
+    "date": "2026-09-17"
+  },
+  {
     "expr": "Ça me fait sortir du décor",
     "sens": "Se dit de quelque chose qui casse l’ambiance ou qui te met soudain mal à l’aise.",
     "exemple": "« Franchement, sa remarque devant tout le monde, ça m’a fait sortir du décor direct. »",
