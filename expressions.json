@@ -1,5 +1,33 @@
 [
   {
+    "expr": "Ça me fait rentrer chez moi",
+    "sens": "Se dit d’une ambiance, d’un plan ou d’une proposition qui coupe l’envie de rester ou de continuer.",
+    "exemple": "« Un bar blindé avec musique à fond et queue dehors ? Franchement, ça me fait rentrer chez moi. »",
+    "registre": "courant",
+    "date": "2026-09-18"
+  },
+  {
+    "expr": "On se fait un dîner sans performance ?",
+    "sens": "Proposer un repas simple, tranquille, sans chercher à faire un grand truc ni à traîner tard.",
+    "exemple": "« Ce soir j’ai zéro énergie pour un resto concept. On se fait un dîner sans performance ? »",
+    "registre": "entre potes",
+    "date": "2026-09-18"
+  },
+  {
+    "expr": "Tu peux me le rendre prenable ?",
+    "sens": "Demander qu’un sujet, un document ou une explication soit simplifié pour être compris et utilisé facilement.",
+    "exemple": "« Le deck est complet, mais tu peux me le rendre prenable pour le comex de 14 h ? »",
+    "registre": "boulot",
+    "date": "2026-09-18"
+  },
+  {
+    "expr": "Je suis en reste de gens",
+    "sens": "Dire qu’on a encore la fatigue sociale d’interactions récentes et qu’on n’a pas très envie de voir du monde.",
+    "exemple": "« Je passe mon tour ce soir, je suis en reste de gens depuis tout le week-end. »",
+    "registre": "courant",
+    "date": "2026-09-18"
+  },
+  {
     "expr": "Ça me vide un peu la pièce",
     "sens": "Ça casse mon envie ou mon énergie d’un coup, ça refroidit l’ambiance pour moi.",
     "exemple": "« Franchement, son message à 19h pour reparler boulot, ça me vide un peu la pièce. »",
